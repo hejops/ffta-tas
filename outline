@@ -7,17 +7,17 @@ I am interested on collaborating for a TAS for this game, though I will need som
 Having all units wait should be fastest. Would need to check which animation is faster - hitting or missing. I presume naming Marche M (and the clan N) saves frames.
 
 0. Bangaas
-Not sure how to optimise this one.
+Should be finished in 3 turns.
 
-Marche and Montblanc should be optimized for max Attack (Magic for Montblanc) and Speed. Need to check how the RNG is done for that. Max Magic Montblanc might be needed if it allows the Flan in the desert to be OHKO'd; otherwise don't bother. Then, do the same for the most important members of the initial party (namely the Human and Bangaa).
+[s]Marche and Montblanc should be optimized for max Attack (Magic for Montblanc) and Speed. Need to check how the RNG is done for that. Max Magic Montblanc might be needed if it allows the Flan in the desert to be OHKO'd; otherwise don't bother. Then, do the same for the most important members of the initial party (namely the Human and Bangaa).[/s]
+
+I doubt initial party stats are random.
 
 The Viera and Nu Mou should be fired immediately since they're of little use. As for AI bait, I'm not sure about its efficiency.
 
-Montblanc is most likely the best way to kill the Flan in Desert Peril. It's only the 4th fight in the game, so you don't really have access to Parley or anything else that could kill it quickly. After Desert Peril, I think he can be replaced ASAP by a recruited Thief with max Speed. That way you could easily Haste-all on turn 1, instead of what AJ does (Bangaa Haste, which just wastes the Bangaa's first turn). The Bangaa could then be raised as a Warrior -> Gladiator. He'd no longer have range, but the massive power of Estreledge Beatdown would likely offset that. Besides, the 4 Humans already have Air Render.
+Montblanc is most likely the best way to kill the Flan in Desert Peril. It's only the 4th fight in the game, so you don't really have access to Parley or anything else that could kill it quickly. [s]After Desert Peril, I think he can be replaced ASAP by a recruited Thief with max Speed. That way you could easily Haste-all on turn 1, instead of what AJ does (Bangaa Haste, which just wastes the Bangaa's first turn)[/s]. So he should be a Black Mage at most until Desert Peril; otherwise he should be a Thief/Gadgeteer. The Bangaas should be raised as Warrior -> Gladiator. They have no range, but the power of Estreledge Beatdown should hopefully offset that. Besides, the 3 Humans already have Air Render.
 
-Montblanc could be killed in the Jagd to let in one more member.
-
-Level ups should be optimised too, if it doesn't cost too much time.
+Level ups should be optimised too. I don't think it costs too much time.
 
 Buying/changing armor should never be necessary, unless it increases Attack/Speed/Move.
 
@@ -28,25 +28,15 @@ Minor optimisations: Can enemy abilities be avoided (i.e. just use Fight)? Their
 According to the mechanics guide, I'm pretty sure Boost doesn't stack. AJ does this often for some reason. Anyway, my plan doesn't use Boost so whatever.
 
 AJ's map setup is clearly far from optimal. In decreasing priority, the most important map items are:
--Estreledge (TTMM, Roda)
+-2 Estreledge* (TTMM, Roda, Berv)
 -Telaq Flower (PP, Aisenfield) - boosts Lightning damage (i.e. Atmos Blade)
+-Tiptaptwo (TTWW, Uladon) - Speed +15, should help Mont go first
 -Excalibur (MMDD, Jeraw) - much earlier when obtained from the map (after Mission 13) than from quest rewards (earliest after Mission 21)
--Tiptaptwo (TTWW, Uladon) - Speed +15, pretty much guarantees the Moogle goes first
 
-A possible example is as follows:
+*Apparently FellVisage has shown you can get 2 Estreledges. But this renders the Excalibur impossible, I think.
 
-TB  T
- \ /
-  T   W
- / \ /
-M   M
- \ / \
-  TC  W
- / \
-D   D
-
-TB = Bervenia
-TC = Cyril
+A possible example is as follows (WIP):
+[img]https://i.imgur.com/eLlXcJL.jpg[/img]
 
 Nonetheless, map setup is a complex balance of getting good items and reducing time spent traveling and will require much thought - even more so when you take into account laws.
 
@@ -56,17 +46,19 @@ Important quest rewards:
 4 Air Blades (for when Lightning can't be boosted) - type 4
 6 Ninja Gears (Speed +1) - type 5
 4 Pearl Blades (strongest Blade) - type 6
-2 Excaliburs (strongest weapon, period) - type 7
-2 Fairy Shoes (warp) - type 7
+3 Excaliburs (strongest weapon after Estreledge) - type 7
+1 Fairy Shoes (warp) - type 7
 
 Random note regarding Parley: Parley only has a non-zero chance of success when an enemy has less than half HP. And this chance decreases the more enemies you kill. Furthermore using it comes at the cost of less AP for a Fighter ability. Finally, while the weapon (Barong) that teaches it is available early, it is a shitty weapon. Overall I think Parley should not be bothered with. Brute force with Beatdown/Air Render instead.
 
 Some people have mentioned Far Fist, but it comes very late into the game - after Mission 18, to be precise. Also, I doubt Air Blast is worth learning.
 
 Party setup:
-4 Fighter/Paladin (Beatdown - Fighter should be primary job due to better stat growth and Move, but Paladins have Excalibur; maybe keep 1 as Paladin/Fighter?)
-1 Warrior/Gladiator (Estreledge, having more than 1 is redundant; conflicted - Estreledge requires Warrior, but Gladiators can gain 1 more Speed per level, hopefully the Estreledge offsets the loss of Speed)
-1 Thief/Gadgeteer (raise as Thief for Speed gains, having more than 1 is redundant)
+3 Paladin/Fighter (Marche + the initial Human + recruited Soldier; Paladins have slower stat growth and Move than Fighters, but this should hopefully be offset by Excalibur)
+2 Warrior/Gladiator (initial Bangaa* + possible recruit; unsure, since Estreledge requires Warrior, but Gladiators can gain 1 more Speed per level, so hopefully the Estreledge offsets the loss of Speed)
+1 Thief/Gadgeteer (either Montblanc, or a recruit; raise as Thief for Speed gains, having more than 1 is redundant)
+
+[s]*Replacing him with a recruited Gladiator could also be an option, since Gladiators have better base stats AND growth. However, you still have to wait for the shop upgrade for Beatdown. If it turns out to be better than using the initial Bangaa, I will rectify the plan accordingly.[/s]
 
 Other possible, but not so viable options:
 Hunter (only if recruitable, Archers suck) - Sonic Boom (4-range Fight with AOE, but no crits), WAtk+
@@ -74,129 +66,130 @@ Black Mage (slow, limited power until you get tier 3 rods - Sages are worse sinc
 Gunner (range, quite weak, no AOE)
 Assassin (not worth getting I guess)
 
-Ideally, the party will be made up of 6 units. I can't remember how recruitment works, but I'm assuming it can occur after any/every story mission. But I might be wrong about this; the mechanics guide doesn't say much about it. Will need to check; haven't played the game in quite a while. If recruitment actually isn't allowed, this should still be doable with Montblanc + the 3 original units. I'm also pretty sure Montblanc is never compulsory at any point in time, so the plan outlined below will assume the ideal 6 units. Here we go.
+Ideally, the party will be made up of 6 units.
+
+[s]I can't remember how recruitment works, but I'm assuming it can occur after any/every story mission. But I might be wrong about this; the mechanics guide doesn't say much about it. Will need to check; haven't played the game in quite a while. If recruitment actually isn't allowed, this should still be doable with Marche, Montblanc and the 2 original units.[/s]
+
+Recruitment is not possible from story missions. Therefore, Human Wanted and Dueling Sub will be used to recruit 1 Soldier + 1 Warrior. Montblanc will have to be the Gadgeteer.
+
+The plan outlined below will assume the ideal 6 units. Here we go.
 
 1. Herb Picking:
-Fire Viera and Nu Mou. Change White Monk to Warrior (Shortsword). Recruit Moogle Thief (max Attack/Speed, equip Jack Knife) after the battle -> party of 4+1
-Marche, Human1, Warrior: 40 AP
+Fire Viera and Nu Mou.
+Shop 1: Buy 3 Shortsword, Gauntlets etc until money runs out (to calc). Change White Monk to Warrior (Shortsword).
+Marche, Mont, Human1, Bangaa1: 40 AP
 
-You will need 4 Atmos Blades for 4 Fighters. You can only get them in 2, 3 (2), 5. The first one is especially important, because otherwise the Fighter that you recruit afterwards will have nothing to learn.
+Recruit Soldier + Warrior, max Attack/Speed. Equip Shortswords.
+You will need 4 Atmos Blades for 4 Fighters. You can only get them in 2, 3 (2), 5.
 
 2. Thesis Hunt:
-Can enemy White Mage use Protect instead of Cure?
-Recruit Fighter (Atmos Blade) -> party of 5+1
-Marche, Human1, Warrior: 80 AP
-Thief: 40 AP
+OHKO White Mage.
+Mont could opt for Thief in this battle.
+Marche, Mont, Human1, Bangaa1: 80 AP
+Human2, Bangaa2: 40 AP
 
 3. Cheetahs:
-Shara's AI is quite bad in AJ's run. Can it be manipulated?
+Shara's AI must be manipulated.
+Mont could opt for Thief in this battle. This is probably easier.
 Enemy Archer should ideally shoot nearby targets to reduce arrow-flying time, but I highly doubt the AI allows that.
-Recruit another Fighter (Atmos Blade) -> party of 6+1
-Marche, Human1, Warrior: 100 AP, change to Silver Sword
-Thief: 80 AP
-Human2: 40 AP
+
+Marche, Human1, Bangaa1: 100 AP, change to Silver Sword
+Mont: 100 AP, change to Thief (Jack Knife)
+Human2, Bangaa2: 80 AP
 
 4. Desert Peril:
 Jelly should be OHKO'd if possible. Letting it have a turn is a big waste of time.
 I think Mont should walk up to the Flan then use magic, to save time wasted on moving the camera. Ideally, walk right up to it, then cast on self.
-Marche, Human1, Warrior: 40 AP
-Thief: 100 AP, change to Khukuri
-Human2: 80 AP
-Human3: 40 AP
+Marche, Human1, Bangaa1: 40 AP
+Mont: 40 AP
+Human2, Bangaa2: 100 AP, change to Silver Sword
 
 5. Famfrit:
-Possible idea: Get the red eyes to use Roulette to kill the blue eyes, then themselves. The animation is long, but it could save time since their flying animation is very slow.
-Marche, Human1, Warrior: 120 AP
-Thief: 80 AP
-Human2: 160 AP
-Human3: 120 AP
+Get the red eyes to use Roulette to kill the blue eyes, then themselves. 1st one will be hard to manip.
+Use 4 highest Attack units to surround? Mont will use Thunder.
+Surround may not be necessary.
+Marche, Human1, Bangaa1: 120 AP
+Mont: 100 AP, change to Khukuri
+Human2, Bangaa2: 80 AP
 
 6. Antilaws:
-Ezel must use Sleep on turn 1. He should only use it again when an enemy would be about to wake up. Enemy turns must be minimised here. You get Telaq Flower after this. Use it whenever Atmos Blades are being used (which is quite often).
-Marche, Human1, Warrior: 160 AP
-Thief: 100 AP, change to Gadgeteer (Rising Sun)
-Human2: 200 AP, stay with Atmos
-Human3: 160 AP
+Ezel must use Sleep on turn 1. He should only use it again when an enemy would be about to wake up. Enemy turns must be minimised here. You get Telaq Flower after this. Use it whenever Atmos Blades are being used (which is quite often). It also boosts Thunder's damage, which is nice since Thunder is the fastest spell.
+Marche, Human1, Bangaa1: 160 AP
+Mont: 40 AP
+Human2, Bangaa2: 100 AP, change to Silver Sword
 
 7. Diamond Rain:
-Totema bomb here was probably a good idea since it effortlessly OHKOs the Flan. Make sure the Gadgeteer has 10 JP. This is also the last Flan you'll ever encounter.
+Totema bomb here is probably a good idea since it effortlessly OHKOs the Flan. Make sure Mont has 10 JP. This is also the last Flan you'll ever encounter.
 You get Estreledge after this.
-Marche, Human1, Warrior: 200 AP, change to Fighter (Atmos Blades) but remain as Warrior (Estreledge)
-Gadgeteer: 40 AP
-Human2: 0 AP (nothing to learn)
-Human3: 200 AP, stay with Atmos
+Marche, Human1: 200 AP, change to Fighter (Atmos Blades)
+Bangaa1: 200 AP, change to Estreledge
+Mont: 80 AP
+Human2, Bangaa2: 40 AP
 
 8. Hot Awakening:
-Use crits or Air Render when not in range. Fighters should be noticeably faster than Thieves, which AJ used.
-Marche, Human1: 80 AP, change to Shadow Blades (resume Air Render later)
-Warrior: 0 AP (nothing to learn), change to Gladiator (Shadow Blade)
-Gadgeteer: 120 AP
-Human2: 0 AP (nothing to learn), change to Shadow Blade
-Human3: 0 AP (nothing to learn), change to Shadow Blade
+Use crits or Air Render when not in range. Fighters + Estreledge should be noticeably faster than Thieves, which AJ used.
 Dream Claws, Shadow Blades now buyable. Buy 1 & 5 each.
+Marche, Human1: 80 AP, change to Shadow Blades (resume Air Render later)
+Bangaa1: 0 AP (nothing to learn), change to Gladiator (Shadow Blade)
+Mont: 100 AP, change to Gadgeteer (Dream Claws)
+Human2, Bangaa2: 120 AP
 
 9. Magic Wood:
 Nothing special.
-Marche, Human1-3, Gladiator: 40 AP
-Gadgeteer: 160 AP
+Marche, Mont, Human1, Bangaa1: 40 AP
+Human2, Bangaa2: 160 AP
 
 10. Babus:
-Babus should ideally be 2HKO'd. Like in AJ's run, Babus will come down for Marche to hit him.
-Marche, Human1-3, Gladiator: 80 AP
-Gadgeteer: 200 AP, change to Dream Claws
+Babus should ideally be 2HKO'd. Like in AJ's run, Babus will come down for Marche to hit him. Maybe OHKO with Atmos?
+Marche, Mont, Human1, Bangaa1: 80 AP
+Human2, Bangaa2: 200 AP, change to Fighter/Gladiator (Shadow Blade)
 
 11. Adramelech:
 Adra is susceptible to sleep, right?
 Anyway, I don't think that matters much. Making him run into a corner is definitely a bad idea. He should come forward as much as possible, then you can surround him on 4 sides. 1 Fighter will have to fall back on Air Render. AJ didn't use any Gadgeteer abilities for some strange reason.
-Marche, Human1-3, Gladiator: 160 AP
-Gadgeteer: 80 AP
+Marche, Mont, Human1, Bangaa1: 160 AP
+Human2, Bangaa2: 80 AP
 
 12. Jagd Hunt:
-Kill Montblanc here. Don't bring Human2/3.
 Sleep-all is absolutely essential here. Blue Mage using Defense is very bad since it gives him at least 2 extra turns, and should be avoided at all costs. Surely the AI can do something else?
-Marche, Human1, Human2/3: 200 AP, change back to Atmos Blades
-Gladiator: 200 AP, change back to Warrior (Estreledge)
-Gadgeteer: 120 AP
+Marche, Human1: 200 AP, change back to Atmos Blades
+Mont: 200 AP, change to Thief (Khukuri for Speed +2, no further abilities)
+Bangaa1: 200 AP, change back to Warrior (Estreledge, no further abilities)
+Human2, Bangaa2: 120 AP
 
 13. Bounty:
 Maybe Marche, Paladin and Black Mage could start near each other? A lot of time is wasted waiting for the camera to move around.
 Heals from the enemy should be avoided.
-Marche, Human1: 160 AP
-Gadgeteer: 160 AP
-Warrior, Human2/3: 0 AP (nothing to learn)
-Human3/2: 200 AP, change back to Atmos Blade
-
-You can get Excalibur here earliest.
+Marche, Human1: 120 AP
+Human2, Bangaa2: 160 AP
 
 14. Golden Clock:
-Excellent AI from Shara on AJ's run this time. Too bad she's immune to Berserk. (Is she...?)
-Ritz's 2nd turn was wasted on AJ's run.
-Marche, Human1: 200 AP, now free to change to Paladin
-Gadgeteer: 200 AP, change back to Thief for Speed growth
-Warrior, Human2-3: 0 AP (nothing to learn)
+Try to manip Berserk from Juggler.
+Marche, Human1: 160 AP
+Human2, Bangaa2: 200 AP, change to Atmos Blades (no further abilities)
+Bangaa2 actually has 200 AP to spare until 2nd Estreledge. Air Render?
 
-At this point, I don't think there's anything else that needs to be learnt. Beatdown, Air Render, Haste-all and Sleep-all should suffice. Far Fist comes later, and Air Blast is lame. I will stop keeping track of AP from here on.
+15a. Scouring Time:
+I presume AJ spammed Haste-all to get JP for Totema? Cool idea.
 
-15. Scouring Time:
-I presume AJ spammed Haste-all to get AP for Totema? Cool idea.
-
-15. Exodus:
+15b. Exodus:
 Can Babus AI be manipulated? His magic wastes a lot of time.
-Only Marche gains AP.
 You can get Tiptaptwo after this.
 
 16. Big Find:
-Straightforward. AJ's run was good.
+Straightforward.
+Marche, Human1: 200 AP, change to Atmos Blades (no further abilities)
 
 17. Desert Patrol:
 I don't think letting the White Monk run to the back is a good idea.
 
 You can get up to 5 Pearl Blades (which have 4 more Attack than the shop's Ogun Blades), but you only need 4. You can get them from 18, 19 and 20 (2).
 
-18. Llednar:
-Killing Marche ASAP ends the battle immediately. Could be achievable quickly with that LV Flare spell from the Fairies. Either way, unequip all Marche's armor (if any), Sleep-all (if possible), let Marche be surrounded, then Beatdown away.
+18a. Llednar:
+Reward must be Pearl Blade.
+Killing Marche ASAP ends the battle immediately. Could be achievable quickly with that LV Flare spell from the Fairies. Either way, unequip all Marche's armor (if any), Sleep-all (if possible), let Marche be surrounded, then Estrelege Beatdown.
 
-18. Mateus:
+18b. Mateus:
 Put Marche's armor back on, if any.
 Again, letting Mateus run to the corner doesn't seem like a good idea. Like Adramelech.
 Possible for Sleep-all to hit everyone? I don't think Vampires have Immunity, do they?
@@ -204,32 +197,36 @@ Possible for Sleep-all to hit everyone? I don't think Vampires have Immunity, do
 Shop is upgraded again. This time you get Headband, Power Sash, Kwigon Blade, Ogun Blade and Dash Boots.
 
 19. Materite Now:
+Reward must be Pearl Blade.
 Straightforward. AJ's run was good.
+2nd Estreledge now.
 
 20. Present Day:
+Reward must be 2 Pearl Blade.
 Letting the enemies run to the corner wastes turns.
 Llednar AI should be manipulated to use whatever spell has the shortest animation.
 
 21. Hidden Vein:
+Last Mission from pub (I think).
 Try to kill Mog Knight without triggering his reaction; Haste gives him an extra turn.
+Reward must be Excalibur. Changing to Paladin optional.
 
 22. Ritz:
-Not a bad idea to use spam Mateus here, but what about Sleep-all?
+Not a bad idea to use spam Totema here, but what about Sleep-all?
+Reward must be Fairy Shoes.
 
-23. To Ambervale:
-Good use of fall damage. AJ's run was good overall, though Marche's placing could be further optimised; one of his turns was wasted while moving towards the Malboro.
+23. Over the Hill:
+Use fall damage to kill Dragon.
+Reward must be 2 Excalibur. Don't change to Paladin yet.
 
 24. Llednar 3:
-Note that Excalibur is ineffective against Llednar.
+Note that Excalibur is ineffective against Llednar. Use Pearl Blade+Estreledge.
 Surround him ASAP.
-Why did AJ use criticals instead of Beatdown?
 
 24. Remedi:
-Re-equip Excalibur(s).
-Surround her ASAP.
+Change to Paladin.
 
 24. Li-Grim:
-Surround her ASAP.
-Killing her before the dialog is activated would be ideal, but I doubt that's possible.
+Killing her before the dialog is activated would be ideal, if possible.
 
 I think that's about it. Gonna look into the TAS tutorials once I have more time, but feel free to use these ideas. Thanks to AJ for showing just how good Beatdown can be.
