@@ -27,9 +27,11 @@ mont doesn't do anything useful
 human1 crit only took about 20 frames, fortunately
 marche crit only took 2 frames lmao
 
-test from 58509; marche KO'd -> final input of battle; should marche move?
-move - 60335
-don't move - 
+test from 58509; marche KO'd 2nd last enemy -> final input of battle; should marche move?
+(i think goblin will always head for human1)
+don't move, kill next turn - 60335
+move 1 tile (don't block human1), let human1 kill - 
+move tile (block human1), let human1 kill - 
 
 was a very easy fight - i doubt bringing 1-2 more units would speed it up
 got corpse shifted tho >:(
