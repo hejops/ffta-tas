@@ -1,0 +1,27 @@
+intro, snowball, bangaa: followed FellVisage's run more or less
+
+unequipped armor
+changed monk -> warrior
+fired viera, nu mou
+
+1st shop (Sprohm, since cursor already on it)
+sold: all armor except Cuirass, all Shields, Bandage, Phoenix Down
+buy: 3 Shortswords, 3 Gauntlets
+i sell largest valued items (450 to 300) to minimise dialog with shopkeeper
+notably i didn't sell cuirass. moving right from armor to accessories tab while equipping costs 3+3+6 extra frames (Bangaa affected twice), but the shopkeeper dialog is far longer than 12 frames. further optimisation may be possible.
+
+equipped Shortsword + Gauntlets
+paid for herb picking
+140 Gil left
+
+not sure what's the best way to move cursor
+
+currently testing enemy stats generated on different frames
+
+-----
+
+judge corpse shift should be avoided if possible
+
+dueling WAR + human SLD
+
+WHT must be OHKO'd
