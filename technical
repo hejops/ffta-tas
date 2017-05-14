@@ -1,0 +1,48 @@
+BAB before setopts
+
+dpad must be doubled to register
+
+player turn:
+ignore 1st redzone
+
+6 frames between wait -> facing
+
+so far nothing is done during the dreadful "AI contemplation of doom" phase
+
+enemy attack sequence:
+first look for big redzone, then from small redzone,
++  3 green tiles will appear
++~20 target (depends on camera movement, creates redzone, +12)
++ 12 damage calc
+
+enemy miss manip:
+~40 frames after damage calc
+~5-20 frames before target stops flashing
+~right before attack animation begins
+successful miss will create redzone
+
+1st U -> 1st allowed A
+86 ULULA
+90 UU UUA
+diags always preferred
+
+ABA is better than just A for those tooltip things
+
+Cyril left -> 47111 - 47152
+Cyril down -> 47111 - 47146
+
+LR no need duplicate in equip?
+
+world map input can be started ~3 frames before cursor reappears, at least for A
+
+1st shop (Sprohm)
+sell: all armor except Cuirass, all Shields, Bandage, Phoenix Down
+buy: 3 Shortswords, 3 Gauntlets
+i don't sell unnecessarily because the shopkeeper's questions take very long
+in particular i didn't sell cuirass. moving right from armor to accessories tab while equipping costs 3+3+6 extra frames (Bangaa affected twice), but the shopkeeper dialog is far longer than 12 frames. nonetheless further optimisation may be possible.
+
+judge corpse shift should be avoided if possible
+
+dueling WAR + human SLD
+
+WHT must be OHKO'd
