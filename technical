@@ -1,6 +1,6 @@
-BAB before setopts
+BAB dialog before setopts
 
-dpad must be doubled to register
+UL must be doubled to register
 
 player turn:
 ignore 1st redzone
@@ -34,15 +34,3 @@ Cyril down -> 47111 - 47146
 LR no need duplicate in equip?
 
 world map input can be started ~3 frames before cursor reappears, at least for A
-
-1st shop (Sprohm)
-sell: all armor except Cuirass, all Shields, Bandage, Phoenix Down
-buy: 3 Shortswords, 3 Gauntlets
-i don't sell unnecessarily because the shopkeeper's questions take very long
-in particular i didn't sell cuirass. moving right from armor to accessories tab while equipping costs 3+3+6 extra frames (Bangaa affected twice), but the shopkeeper dialog is far longer than 12 frames. nonetheless further optimisation may be possible.
-
-judge corpse shift should be avoided if possible
-
-dueling WAR + human SLD
-
-WHT must be OHKO'd
