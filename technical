@@ -16,7 +16,7 @@ first look for big redzone, then from small redzone,
 + 12 damage calc
 
 enemy miss manip:
-~40 frames after damage calc
+~20-40 frames after damage calc
 ~5-20 frames before target stops flashing
 ~right before attack animation begins
 successful miss will create redzone
