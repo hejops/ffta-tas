@@ -34,3 +34,10 @@ Cyril down -> 47111 - 47146
 LR no need duplicate in equip?
 
 world map input can be started ~3 frames before cursor reappears, at least for A
+
+herb picking enemy stats (HP/Def/Speed)
+51249: 25/84/125 - 32/108/105 - 32/100/111 - 52/121/110 - 32/103/108
+51250: 26/87/123 - 33/102/105 - 33/104/110 - 51/115/108 - 33/102/111
+(will put into excel or something)
+
+extreme optimisation would require looking into code and stuff
