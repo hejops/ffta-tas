@@ -1,16 +1,16 @@
 # ffta-tas
 
-easy
+easy:
 dialog
 
-moderate
-critical/miss manipulation
-world map cursor movement
-money management
-laws
+moderate:
+critical/miss manipulation,
+world map cursor movement,
+money management,
+laws,
 quest rewards
 
-difficult
-max/min stat manipuation
-map arrangement, movement
+difficult:
+max/min stat manipuation,
+map arrangement & movement,
 enemy clan movement
