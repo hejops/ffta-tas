@@ -17,8 +17,9 @@ paid for herb picking
 not sure what's the best way to move cursor
 
 currently testing enemy stats generated on different frames
-
 stat manipulation is too tedious for me right now
+
+1. HERB PICKING
 
 placed units in normal order
 bangaa1 OHKO'd fairy (cost 4 frames)
@@ -76,6 +77,25 @@ human (3rd attempt; forgot to buy quest before going to lutia)
 
 changed NIN->SLD, equipped Shortswords
 
------
+2. THESIS HUNT
 
-WHT must be OHKO'd
+position:
+SLD2 WAR2 SLD1 WAR1 MON MAR
+
+>SLD2 wait? advancing will attract THFA - not good; bait ARC by moving left?
+THFA will always reach someone and fight, usually MON or unit to MON's left
+THFB will advance
+>WAR1 fight THFA, try to do 24-25
+WHT will try to heal THFA, else wait, bait him to come down
+ARC must fight, DON'T LET HIM ASCEND
+>SLD1 advance and turn back to SLDA; let Mont KO THFA?
+>MAR must CKO [WHT]
+SLDA will fight SLD1
+>MON KO [THFA] (try to hit SLD also)
+>WAR2 crit SLDA ~24
+SLDB will descend and fight
+
+>SLD2 crit SLDA ~24
+>WAR1 crit SLDB ~24
+>SLD1 
+>MAR CKO [ARC]
