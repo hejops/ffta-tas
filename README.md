@@ -13,4 +13,5 @@ quest rewards
 difficult:
 max/min stat manipuation,
 map arrangement & movement,
-enemy clan movement
+enemy clan movement,
+AI manipulation
