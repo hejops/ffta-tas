@@ -1,7 +1,8 @@
 # ffta-tas
 
 easy:
-dialog
+dialog,
+menu movement
 
 moderate:
 critical/miss manipulation,
