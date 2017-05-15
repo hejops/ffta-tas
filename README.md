@@ -12,7 +12,7 @@ laws,
 quest rewards
 
 difficult:
-max/min stat manipuation,
-map arrangement & movement,
+max/min stat manipulation,
+map arrangement & movement (graph theory),
 enemy clan movement,
 AI manipulation
