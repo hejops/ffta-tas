@@ -1,4 +1,4 @@
-BAB dialog before setopts
+BAB dialog before setopts (Fell)
 
 dpad must often (but not always) be doubled to register
 
@@ -42,3 +42,8 @@ herb picking enemy stats (HP/Def/Speed)
 
 extreme optimisation would require looking into code and stuff
 for now, 1st available frame will be chosen
+
+black magic (1 target hit; FellVisage)
+398 thunder
+405 fire
+444 blizzard
