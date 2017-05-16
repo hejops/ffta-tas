@@ -1,3 +1,8 @@
+benchmarks
+47109 Sprohm
+62486 Lutia
+86299 Nubs
+
 intro, snowball, bangaa: followed FellVisage's run more or less
 
 unequipped armor
@@ -105,3 +110,35 @@ SLDB will descend and fight
 >WAR1 crit SLDB ~24
 >SLD1 
 >MAR CKO [ARC]
+
+actual
+>SLD2 move DL, wait, +2 frames to make THFA move to WAR1
+THFA miss WAR1 (didn't need manip)
+THFB will advance D (69800), R (69811)
+>WAR1 fight THFA, crit, move DL to move closer to SLD
+WHT almost always moves to THFB, but does nothing
+ARC advance, miss SLD1
+>SLD1 advance, let someone else kill THFA
+>MAR crit SLDB, turn back/side makes him move AFTER fight, letting him hit makes him run away
+SLDB almost always fight WAR1, didn't need manip
+>MON KO [THFA]
+>WAR2 crit SLDA 26
+SLDB miss MAR, move behind MAR
+
+>SLD2 cannot OHKO ARC, 
+THFA miss SLD2 (didn't need manip)
+WHT didn't do anything, miraculously
+>WAR1 can't OHKO WHT, so KO [ARC]
+>SLD1 takes 73 (!) frames to CKO WHT so i decided against it, 1 hit + mont later will kill anyway
+>MON KO [WHT] + damage THFB
+>WAR2 can't fight SLDA, else first aid, so crit THFB
+>MAR CKO [SLDB]
+SLDA miss SLD
+>WAR1 fight SLD
+THFB miss SLD
+>WAR2 KO [THFB]
+>SLD2 KO [SLDA]
+
+satisfactory
+
+-----
