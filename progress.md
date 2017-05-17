@@ -223,9 +223,11 @@ whether a clan is going to move cannot be manipulated. however, where it moves t
 # 4. Desert Peril
 
 1st allowed 111308
-will try for a 24 HP flan
+lowest flan HP i ever saw was 28
+crits cannot do 2 damage
+so flan will have to be 2HKO, sadly
 
-COE, ANT easy 2CKO
+COE, ANT easy 2CKO with SS
 
 observations
 ```
@@ -238,3 +240,6 @@ ANT advance
 MAR crit ANT
 MON can't KO flan with normal variance, shiiiiet
 ```
+
+this fight is weird - sometimes it will take forever for mont's turn to come
+if this happens, redo
