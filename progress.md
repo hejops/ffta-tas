@@ -222,6 +222,7 @@ whether a clan is going to move cannot be manipulated. however, where it moves t
 
 # 4. Desert Peril
 
+1st allowed 111308
 will try for a 24 HP flan
 
 COE, ANT easy 2CKO
