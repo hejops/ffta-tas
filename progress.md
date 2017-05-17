@@ -243,3 +243,9 @@ MON can't KO flan with normal variance, shiiiiet
 
 this fight is weird - sometimes it will take forever for mont's turn to come
 if this happens, redo
+
+this happened for 111308
+
+Speed requirements
+ANT > MAR (108) - latest 111324
+MON > FLA
