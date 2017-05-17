@@ -1,31 +1,34 @@
-benchmarks
+# benchmarks
+```
  47109 Sprohm
  62486 Lutia
  86299 Nubs
-106317 Eluut (about 1/2 minute faster than Fell)
+106317 Eluut
+```
 
-intro, snowball, bangaa: followed FellVisage's run more or less
+# intro, snowball, bangaa
+followed FellVisage's run more or less
 
-unequipped armor
-changed monk -> warrior
-fired viera, nu mou
+- unequipped armor
+- changed monk -> warrior
+- fired viera, nu mou
 
-1st shop (Sprohm, since cursor already on it)
-sold: all armor except Cuirass, all Shields, Bandage, Phoenix Down
-buy: 3 Shortswords, 3 Gauntlets
-i sell largest valued items (450 to 300) to minimise dialog with shopkeeper
-notably i didn't sell cuirass. moving right from armor to accessories tab while equipping costs 3+3+6 extra frames (Bangaa affected twice), but the shopkeeper dialog is far longer than 12 frames. further optimisation may be possible.
+## 1st shop
+- Sprohm, since cursor already on it
+- sold: all armor except Cuirass, all Shields, Bandage, Phoenix Down
+- buy: 3 Shortswords, 3 Gauntlets
+- i sell largest valued items (450 to 300) to minimise dialog with shopkeeper
+- notably i didn't sell cuirass. moving right from armor to accessories tab while equipping costs 3+3+6 extra frames (Bangaa affected twice), but the shopkeeper dialog is far longer than 12 frames. further optimisation may be possible.
 
-equipped Shortsword + Gauntlets
-paid for herb picking
-140 Gil left
+- equipped Shortsword + Gauntlets
+- paid for herb picking
+- 140 Gil left
 
-not sure what's the best way to move cursor
+- not sure what's the best way to move cursor
+- currently testing enemy stats generated on different frames
+- stat manipulation is too tedious for me right now
 
-currently testing enemy stats generated on different frames
-stat manipulation is too tedious for me right now
-
-1. HERB PICKING
+# 1. HERB PICKING
 
 placed units in normal order
 bangaa1 OHKO'd fairy (cost 4 frames)
@@ -47,6 +50,7 @@ place lutia, 62597 frames -> 62451 after moving marche
 need 2 atmos blades on dueling sub AND thesis hunt - this might be hard; if i can't do it within 60 frames i'll settle for 1
 i settled for 1; atmos on dueling wouldn't appear even after 60+ frames [area for improvement, tho idk how much better 1 more atmos'd be]
 
+```
 warrior
 64060 - 1st allowed finish
 64064 - 113/100
@@ -54,9 +58,11 @@ warrior
 64083 - 111/103 ! <- went with this dude
 64093 - 116/101 !
 64105 - 113/100
+```
 no white monks appeared within this time so i didn't try further
 
 human (1st attempt)
+```
 64703 - 88/113 - ARC, 1st allowed finish
 64705 - 99/107 - BLU
 64707 - 100/106 - BLU
@@ -71,19 +77,22 @@ human (1st attempt)
 64718 - 108/110 - SLD
 64719 - 114/113 - FGT
 64720 - 105/126 - NIN
+```
 
 human (2nd attempt; had to redo since i forgot an extra button press on warrior)
+```
 64644 - 92/120 - ARC, 1st allowed finish
 64652 - 105/125 - NIN
 64677 - 109/129 - NIN
 64680 - 104/136 - NIN !!! <- even better, still earlier overall
+```
 
 human (3rd attempt; forgot to buy quest before going to lutia)
-132 Speed on 1st frame lmao
+- 132 Speed on 1st frame lmao
 
 changed NIN->SLD, equipped Shortswords
 
-2. THESIS HUNT
+# 2. THESIS HUNT
 
 law is currently recommend fire; will probably use it instead of Thunder for JP since the frame cost is low
 
@@ -95,6 +104,7 @@ THF - 2HKO (
 SLD - 3HKO
 
 observations
+```
 >SLD2 wait? advancing will attract THFA - not good; bait ARC by moving left?
 THFA will always reach someone and fight, usually MON or unit to MON's left
 THFB will advance
@@ -112,8 +122,10 @@ SLDB will descend and fight
 >WAR1 crit SLDB ~24
 >SLD1 
 >MAR CKO [ARC]
+```
 
 actual
+```
 >SLD2 move DL, wait, +2 frames to make THFA move to WAR1
 THFA miss WAR1 (didn't need manip)
 THFB will advance D (69800), R (69811)
@@ -140,21 +152,23 @@ SLDA miss SLD
 THFB miss SLD
 >WAR2 KO [THFB]
 >SLD2 KO [SLDA]
+```
 
 satisfactory; just over 2 turns
 
-human1 and bangaa1 mastered first aid; forgot to consider dispatch AP
-1 atmos is quite fast this time (4 frames), but i'm going to need 2 - doesn't help that i need to sit through the stupid dialog before i can check
-2 atmos came faster than expected
+- human1 and bangaa1 mastered first aid; forgot to consider dispatch AP
+- 1 atmos is quite fast this time (4 frames), but i'm going to need 2 - doesn't help that i need to sit through the stupid dialog before i can check
+- 2 atmos came faster than expected
 
 bought 3 Silver Sword + 1 Jack Knife; Jack Knife is just a page below Silver Sword, conveniently
 
-3. THE CHEETAHS
+# 3. THE CHEETAHS
 
 Lightning banned on this day, not a big deal tho
 units reduced by 2, so left the new recruits behind (reaching new jobs is priority, and the first 2 have Gauntlets anyway)
 
 observations
+```
 >RIT advance, fight, KO THF possible
 >SHA fight, can't KO BLK
 ARC advance Disable
@@ -166,8 +180,10 @@ SLD probably can't reach anyone yet
 MAR can only reach 1 tile beyond the water
 MON Fire, must try to KO tho very unlikely
 BLK target MAR+MON, so keep them separate
+```
 
 actual
+```
 >RIT advance, CKO [THF]
 >SHA fight, only 1 frame allowed crit, but it will make ARC use an ability, so i decided against it
 ARC has a few patterns, seemingly dependent on how much damage SHA does
@@ -188,8 +204,9 @@ SHA Disable BLK, didn't bother manip
 WAR can't CKO FGT
 SLD KO FGT, did a bit of judge manip
 MAR KO BLK, just needed a bit of that damage fluctuation
+```
 
-marche ended quite near ritz so this saves some frames
+marche ended quite near ritz so this saved some frames
 
 just below 2 turns, quite satisfactory
 
@@ -199,5 +216,5 @@ i don't think the clan can be manip'd to not spawn
 
 took a lot of guesswork but i found out that quest reward is generated on the frame you select Missions in the pub
 once i found this out khukuri only took 2 frames
-gonna try next fight without buying Gauntlets
+bought 2 Gauntlets; i presume i'm gonna need all the power i can get
 
