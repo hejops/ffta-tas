@@ -1,7 +1,8 @@
 benchmarks
-47109 Sprohm
-62486 Lutia
-86299 Nubs
+ 47109 Sprohm
+ 62486 Lutia
+ 86299 Nubs
+106317 Eluut
 
 intro, snowball, bangaa: followed FellVisage's run more or less
 
@@ -93,6 +94,7 @@ WHT, ARC - easy OHKO (turn 1-2)
 THF - 2HKO (
 SLD - 3HKO
 
+observations
 >SLD2 wait? advancing will attract THFA - not good; bait ARC by moving left?
 THFA will always reach someone and fight, usually MON or unit to MON's left
 THFB will advance
@@ -150,6 +152,45 @@ bought 3 Silver Sword + 1 Jack Knife; Jack Knife is just a page below Silver Swo
 3. THE CHEETAHS
 
 Lightning banned on this day, not a big deal tho
-units reduced by 2, so left the new recruits behind (reaching new jobs is priority)
+units reduced by 2, so left the new recruits behind (reaching new jobs is priority, and the first 2 have Gauntlets anyway)
+
+observations
+>RIT advance, fight, KO THF possible
+>SHA fight, can't KO BLK
+ARC advance Disable
+THF should be dead
+WAR crit ARC (can't OHKO, need 2 crit)
+MNK advance, try to avoid Air Render
+FGT fight RITZ, good
+SLD probably can't reach anyone yet
+MAR can only reach 1 tile beyond the water
+MON Fire, must try to KO tho very unlikely
+BLK target MAR+MON, so keep them separate
+
+actual
+>RIT advance, CKO [THF]
+>SHA fight, only 1 frame allowed crit, but it will make ARC use an ability, so i decided against it
+ARC has a few patterns, seemingly dependent on how much damage SHA does
+1. move 3 tiles (blocks path), fight MON <- this is best
+2. move 4 tiles, fight WAR <- i thought this was best, but it later causes FGT to block MAR's path
+3. Disable/Blind
+-THF dead-
+WAR fight ARC (don't crit, or will block MAR), wait 8 frames to make MNK fight
+MNK fight RIT, wait 2 frames to make FGT fight
+FGT can use Blitz, but this can be nanip'd during MNK
+SLD can't reach anyone yet
+MAR can't CKO ARC, leave it for MON
+MON Fire, KO [ARC], wait 4 frames to make BLK fight RIT (lmao)
+BLK fight RIT
+
+RIT almost always fights MNK, so let her CKO; only 1 frame actually causes that, and it unfortunately makes SHA use Disable
+SHA Disable BLK, didn't bother manip
+WAR can't CKO FGT
+SLD KO FGT, did a bit of judge manip
+MAR KO BLK, just needed a bit of that damage fluctuation
+
+marche ended quite near ritz so this saves some frames
+
+just below 2 turns, quite satisfactory
 
 -----
