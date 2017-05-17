@@ -241,11 +241,13 @@ MAR crit ANT
 MON can't KO flan with normal variance, shiiiiet
 ```
 
-this fight is weird - sometimes it will take forever for mont's turn to come
+this fight is weird - sometimes mont will be slower than flan despite having higher Speed
 if this happens, redo
 
 this happened for 111308
 
 Speed requirements
-ANT > MAR (108) - latest 111324
+ANT > MAR (108) - 111308 / 111324
 MON > FLA
+
+place 2 Silver Sword users (1 being MAR) on ANT side
