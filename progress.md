@@ -1,4 +1,4 @@
-# benchmarks
+# Benchmarks
 ```
  47109 Sprohm
  62486 Lutia
@@ -6,7 +6,7 @@
 106317 Eluut
 ```
 
-# intro, snowball, bangaa
+# Intro, Snowball, Lizards
 followed FellVisage's run more or less
 
 - unequipped armor
@@ -28,7 +28,7 @@ followed FellVisage's run more or less
 - currently testing enemy stats generated on different frames
 - stat manipulation is too tedious for me right now
 
-# 1. HERB PICKING
+# 1. Herb Picking
 
 placed units in normal order
 bangaa1 OHKO'd fairy (cost 4 frames)
@@ -92,7 +92,7 @@ human (3rd attempt; forgot to buy quest before going to lutia)
 
 changed NIN->SLD, equipped Shortswords
 
-# 2. THESIS HUNT
+# 2. Thesis Hunt
 
 law is currently recommend fire; will probably use it instead of Thunder for JP since the frame cost is low
 
@@ -162,7 +162,7 @@ satisfactory; just over 2 turns
 
 bought 3 Silver Sword + 1 Jack Knife; Jack Knife is just a page below Silver Sword, conveniently
 
-# 3. THE CHEETAHS
+# 3. The Cheetahs
 
 Lightning banned on this day, not a big deal tho
 units reduced by 2, so left the new recruits behind (reaching new jobs is priority, and the first 2 have Gauntlets anyway)
@@ -218,3 +218,6 @@ took a lot of guesswork but i found out that quest reward is generated on the fr
 once i found this out khukuri only took 2 frames
 bought 2 Gauntlets; i presume i'm gonna need all the power i can get
 
+whether a clan is going to move cannot be manipulated. however, where it moves to can be. particularly, a clan going offscreen saves quite a few frames (~4).
+
+# 4. Desert Peril
