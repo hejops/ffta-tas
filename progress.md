@@ -221,3 +221,19 @@ bought 2 Gauntlets; i presume i'm gonna need all the power i can get
 whether a clan is going to move cannot be manipulated. however, where it moves to can be. particularly, a clan going offscreen saves quite a few frames (~4).
 
 # 4. Desert Peril
+
+will try for a 24 HP flan
+
+COE, ANT easy 2CKO
+
+observations
+```
+SLD2 don't move
+PAN advance
+WAR1 don't move
+COE1&2 advance
+SLD1 crit
+ANT advance
+MAR crit ANT
+MON can't KO flan with normal variance, shiiiiet
+```
