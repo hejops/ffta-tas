@@ -199,4 +199,5 @@ i don't think the clan can be manip'd to not spawn
 
 took a lot of guesswork but i found out that quest reward is generated on the frame you select Missions in the pub
 once i found this out khukuri only took 2 frames
+gonna try next fight without buying Gauntlets
 
