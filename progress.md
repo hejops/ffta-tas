@@ -281,3 +281,13 @@ areas for improvement:
 Air Render for COE
 OHKO FLN
 
+mont stil has only 4 JP. don't think i'm going to reach 10 by Diamond Rain without using laws
+
+therefore here are my options
+
+1. do diamond rain normally - most straightforward, but the battle may be difficult
+2. farm JP at Famfrit with self-target Ice / Fire (Ice costs 6\*40=240 frames, but Fire costs in-game days)
+3. farm JP at Cadoan with Ice / Fire
+4. farm JP at Famfrit AND Cadoan (4 days apart) - 6 JP can likely be gotten naturally (3 each), but involves weird routing and costs in-game days
+
+i will try 2 first, since mont's damage against fam is minimal anyway
