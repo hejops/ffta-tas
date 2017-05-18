@@ -14,7 +14,7 @@ followed FellVisage's run more or less
 - changed monk -> warrior
 - fired viera, nu mou
 
-## 1st shop
+## Shop 1
 - Sprohm, since cursor already on it
 - sold: all armor except Cuirass, all Shields, Bandage, Phoenix Down
 - buy: 3 Shortswords, 3 Gauntlets
@@ -161,6 +161,8 @@ satisfactory; just over 2 turns
 - 1 atmos is quite fast this time (4 frames), but i'm going to need 2 - doesn't help that i need to sit through the stupid dialog before i can check
 - 2 atmos came faster than expected
 
+## Shop 2
+
 bought 3 Silver Sword + 1 Jack Knife; Jack Knife is just a page below Silver Sword, conveniently
 
 # 3. The Cheetahs
@@ -217,7 +219,11 @@ i don't think the clan can be manip'd to not spawn
 
 took a lot of guesswork but i found out that quest reward is generated on the frame you select Missions in the pub
 once i found this out khukuri only took 2 frames
+
+## Shop 3
+
 bought 2 Gauntlets; i presume i'm gonna need all the power i can get
+[should have bought 2 Silver Swords as well]
 
 whether a clan is going to move cannot be manipulated. however, where it moves to can be. particularly, a clan going offscreen saves quite a few frames (~4).
 
@@ -291,3 +297,7 @@ therefore here are my options
 4. farm JP at Famfrit AND Cadoan (4 days apart) - 6 JP can likely be gotten naturally (3 each), but involves weird routing and costs in-game days
 
 i will try 2 first, since mont's damage against fam is minimal anyway
+
+just realised i should have bought 2 more Silver Swords when i bought the Gauntlets, ffffuuuu
+
+# 5. Famfrit
