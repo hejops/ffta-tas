@@ -1,3 +1,5 @@
+# [.tasproj files](https://mega.nz/#F!U3pV1QTJ!UaVEckaGbxKMvkNHss93Mg)
+
 # Benchmarks
 ```
  47109 Sprohm
@@ -304,5 +306,7 @@ just realised i should have bought 2 more Silver Swords when i bought the Gauntl
 - 1 visit - 129197
 
 so yes, it does. each additional visit costs about 4 secs.
+
+Sprohm -> Ulei in 8 days = Sprohm -> above Lutia -> right of Ulei -> Ulei
 
 # 5. Famfrit
