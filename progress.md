@@ -298,6 +298,11 @@ therefore here are my options
 
 i will try 2 first, since mont's damage against fam is minimal anyway
 
-just realised i should have bought 2 more Silver Swords when i bought the Gauntlets, ffffuuuu
+just realised i should have bought 2 more Silver Swords when i bought the Gauntlets. so i redid the entire fight to test if reducing shop visits really saves time.
+
+- 2 visits - 129419
+- 1 visit - 129197
+
+so yes, it does. each additional visit costs about 4 secs.
 
 # 5. Famfrit
