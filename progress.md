@@ -4,6 +4,7 @@
  62486 Lutia
  86299 Nubs
 106317 Eluut
+128055 Ulei
 ```
 
 # Intro, Snowball, Lizards
@@ -241,13 +242,42 @@ MAR crit ANT
 MON can't KO flan with normal variance, shiiiiet
 ```
 
-this fight is weird - sometimes mont will be slower than flan despite having higher Speed
-if this happens, redo
-
-this happened for 111308
-
 Speed requirements
-ANT > MAR (108) - 111308 / 111324
+ANT > MAR (108) - 111308 / 111324 (so that ANT is easier to reach)
 MON > FLA
 
 place 2 Silver Sword users (1 being MAR) on ANT side
+
+actual
+```
+placed units in normal order, except mont (1 tile down)
+SLD2 advance, but out of reach of panthers
+COE, PAN advance
+WAR1 advance
+SLD1 crit PAN
+ANT advance
+MAR crit ANT
+MON fire FLN (no KO)
+WAR2 advance
+FLN miss
+
+SLD2 KO PAN
+COE advance
+WAR1 KO ANT
+PAN miss SLD2
+MON KO FLN
+SLD1 crit PAN
+WAR2 KO PAN
+MAR wait
+
+SLD2 wait
+COE miss
+WAR1 wait
+2 crits, Thunder and 1 hit KO COE
+```
+
+2+ turns, blame the COE
+areas for improvement:
+Air Render for COE
+OHKO FLN
+
