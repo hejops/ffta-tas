@@ -333,8 +333,10 @@ Sprohm -> Ulei in 8 days = Sprohm -> above Lutia -> right of Ulei -> Ulei
 - it was only HERE that i remembered you could hold B to speed up the world map cursor... shit. there goes like at least 50 frames.
 - the 2 enemies at the top are tricky to deal with quickly
 - mont reached 10 JP
-- getting 2 Speed for Marche was incredibly tedious, especially since he had the last turn
+- getting 2 Speed for Marche was incredibly tedious (78 frames), especially since he had the last turn
 - due to a mistake in map placement telaq has been delayed by 2 battles. fuck.
 
 # 7. Diamond Rain
 
+- changed 2 Fighters (Atmos)
+-
