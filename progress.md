@@ -18,7 +18,7 @@
 - Magic Ring/Air Render for Desert Peril?
 - Air Render for Famfrit?
 - get Montblanc JP faster
-- **Telaq**
+- **Telaq** (redo from place Eluut)
 
 # Intro, Snowball, Lizards
 followed FellVisage's run more or less
