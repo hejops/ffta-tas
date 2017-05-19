@@ -7,6 +7,7 @@
  86299 Nubs
 106317 Eluut
 128297 Ulei
+196442 Aisen
 ```
 
 # Things to fix/consider
