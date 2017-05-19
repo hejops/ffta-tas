@@ -9,6 +9,16 @@
 128297 Ulei
 ```
 
+# Things to fix/consider
+
+- use B during cursor movement
+- get a MNK instead of WAR
+- get 5 Atmos?
+- Magic Ring/Air Render for Desert Peril?
+- Air Render for Famfrit?
+- get Montblanc JP faster
+- **Telaq**
+
 # Intro, Snowball, Lizards
 followed FellVisage's run more or less
 
@@ -311,14 +321,20 @@ Sprohm -> Ulei in 8 days = Sprohm -> above Lutia -> right of Ulei -> Ulei
 
 # 5. Famfrit
 
-manip'd AHR to Roulette his allies most of the time
-surrounded Famfrit ASAP and used crits unless there was a level up to be optimised
-damage output was frankly terrible, and some turns were wasted when Famfrit was surrounded on all sides
-mont had to use Blizzard, but managed to gain 3 JP
-mixed feelings on this one
+- manip'd AHR to Roulette his allies most of the time
+- surrounded Famfrit ASAP and used crits unless there was a level up to be optimised
+- damage output was frankly terrible, and some turns were wasted when Famfrit was surrounded on all sides
+- mont had to use Blizzard, but managed to gain 3 JP
+- mixed feelings on this one
 
 # 6. Antilaws
 
-laws changed, so i had to spend some days to get recommend Fire at Cadoan
-it was only HERE that i remembered you could hold B to speed up the world map cursor... shit. there goes like at least 50 frames.
+- laws changed, so i had to spend some days to get recommend Fire at Cadoan
+- it was only HERE that i remembered you could hold B to speed up the world map cursor... shit. there goes like at least 50 frames.
+- the 2 enemies at the top are tricky to deal with quickly
+- mont reached 10 JP
+- getting 2 Speed for Marche was incredibly tedious, especially since he had the last turn
+- due to a mistake in map placement telaq has been delayed by 2 battles. fuck.
+
+# 7. Diamond Rain
 
