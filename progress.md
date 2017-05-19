@@ -310,3 +310,15 @@ so yes, it does. each additional visit costs about 4 secs.
 Sprohm -> Ulei in 8 days = Sprohm -> above Lutia -> right of Ulei -> Ulei
 
 # 5. Famfrit
+
+manip'd AHR to Roulette his allies most of the time
+surrounded Famfrit ASAP and used crits unless there was a level up to be optimised
+damage output was frankly terrible, and some turns were wasted when Famfrit was surrounded on all sides
+mont had to use Blizzard, but managed to gain 3 JP
+mixed feelings on this one
+
+# 6. Antilaws
+
+laws changed, so i had to spend some days to get recommend Fire at Cadoan
+it was only HERE that i remembered you could hold B to speed up the world map cursor... shit. there goes like at least 50 frames.
+
