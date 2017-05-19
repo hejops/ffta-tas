@@ -6,8 +6,8 @@
  62486 Lutia
  86299 Nubs
 106317 Eluut
-128297 Ulei
-196442 Aisen
+127497 Ulei
+INPROG Aisen
 ```
 
 # Things to fix/consider
@@ -18,7 +18,7 @@
 - Magic Ring/Air Render for Desert Peril?
 - Air Render for Famfrit?
 - get Montblanc JP faster
-- **Telaq** (redo from place Eluut)
+- ~~**Telaq** (redo from place Eluut)~~
 
 # Intro, Snowball, Lizards
 followed FellVisage's run more or less
@@ -335,7 +335,8 @@ Sprohm -> Ulei in 8 days = Sprohm -> above Lutia -> right of Ulei -> Ulei
 - the 2 enemies at the top are tricky to deal with quickly
 - mont reached 10 JP
 - getting 2 Speed for Marche was incredibly tedious (78 frames), especially since he had the last turn
-- due to a mistake in map placement telaq has been delayed by 2 battles. fuck.
+
+- due to a mistake in map placement, i was delayed telaq by 2 battles. i decided to go all the way back to desert peril to fix this mistake. however i did manage to save 800 frames, presumably due to slightly better tactics against COE. was really pissed that i had to redo, but i'm glad i did it in the end.
 
 # 7. Diamond Rain
 
