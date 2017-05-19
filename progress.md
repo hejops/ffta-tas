@@ -337,6 +337,7 @@ Sprohm -> Ulei in 8 days = Sprohm -> above Lutia -> right of Ulei -> Ulei
 - getting 2 Speed for Marche was incredibly tedious (78 frames), especially since he had the last turn
 
 - due to a mistake in map placement, i was delayed telaq by 2 battles. i decided to go all the way back to desert peril to fix this mistake. however i did manage to save 800 frames, presumably due to slightly better tactics against COE. was really pissed that i had to redo, but i'm glad i did it in the end.
+- i actually forgot to optimise a level up (a last turn one, no less) when i redid desert peril, but i went back to fix it relatively easy since i had spare frames while waiting for atmos. thank god for determinism! this fight is FINALLY done.
 
 # 7. Diamond Rain
 
