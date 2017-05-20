@@ -322,11 +322,11 @@ Sprohm -> Ulei in 8 days = Sprohm -> above Lutia -> right of Ulei -> Ulei
 
 # 5. Famfrit
 
-- manip'd AHR to Roulette his allies most of the time
-- surrounded Famfrit ASAP and used crits unless there was a level up to be optimised
-- damage output was frankly terrible, and some turns were wasted when Famfrit was surrounded on all sides
-- mont had to use Blizzard, but managed to gain 3 JP
-- mixed feelings on this one
+- manip'd AHR to Roulette his allies most of the time; i think 2 Roulettes is the sweet spot. another one didn't seem necessary.
+- did with 2 different tactics: surround and take counters / avoid counters by pushing famfrit around. the former turned out to be significantly (~6s) faster since moving around is so time-consuming. therefore, for all subsequent bosses, surround will be used over push where possible.
+- used crits unless there was a level up to be optimised
+- damage calcs are EXTREMELY important here. it is crucial to remember that calculated damage can only vary by at most +10%, and that damage rounds down, so if you're doing below 10 calculated damage, you won't benefit from the variance. doing 1 less damage can mean an extra turn.
+- mont used Blizzard to gain 3 JP
 
 # 6. Antilaws
 
@@ -341,5 +341,5 @@ Sprohm -> Ulei in 8 days = Sprohm -> above Lutia -> right of Ulei -> Ulei
 
 # 7. Diamond Rain
 
-- changed 2 Fighters (Atmos)
+- changed FGT+GLD (Atmos)
 -
