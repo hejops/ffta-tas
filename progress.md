@@ -32,15 +32,9 @@ followed FellVisage's run more or less
 - sold: all armor except Cuirass, all Shields, Bandage, Phoenix Down
 - buy: 3 Shortswords, 3 Gauntlets
 - i sell largest valued items (450 to 300) to minimise dialog with shopkeeper
-- notably i didn't sell cuirass. moving right from armor to accessories tab while equipping costs 3+3+6 extra frames (Bangaa affected twice), but the shopkeeper dialog is far longer than 12 frames. further optimisation may be possible.
+- in particular i didn't sell cuirass because i wanted to avoid the dialog, but it bit me in the ass later because it always gets in the way during equipping.
 
 - equipped Shortsword + Gauntlets
-- paid for herb picking
-- 140 Gil left
-
-- not sure what's the best way to move cursor
-- currently testing enemy stats generated on different frames
-- stat manipulation is too tedious for me right now
 
 # 1. Herb Picking
 
@@ -59,10 +53,7 @@ move 1 tile (don't block human1), let human1 kill - 60219
 was a rather easy fight - i doubt bringing 1-2 more units would speed it up
 got corpse shifted tho >:(
 
-place lutia, 62597 frames -> 62451 after moving marche
-
-need 2 atmos blades on dueling sub AND thesis hunt - this might be hard; if i can't do it within 60 frames i'll settle for 1
-i settled for 1; atmos on dueling wouldn't appear even after 60+ frames [area for improvement, tho idk how much better 1 more atmos'd be]
+need 2 atmos blades on dueling sub AND thesis hunt, which is pretty hard, so i settled for 1; atmos on dueling wouldn't appear even after 60+ frames [area for improvement, tho idk how much better 1 more atmos'd be]
 
 ```
 warrior
