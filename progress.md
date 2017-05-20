@@ -318,6 +318,7 @@ Sprohm -> Ulei in 8 days = Sprohm -> above Lutia -> right of Ulei -> Ulei
 - used crits unless there was a level up to be optimised
 - damage calcs are EXTREMELY important here. it is crucial to remember that calculated damage can only vary by at most +10%, and that damage rounds down, so if you're doing below 10 calculated damage, you won't benefit from the variance. doing 1 less damage can mean an extra turn.
 - mont used Blizzard to gain 3 JP
+- in terms of speed, 1st (surround) > 3rd (surround) > 2nd (push). will revisit the 1st run to see why it was so fast; it certainly didn't feel very fast
 
 # 6. Antilaws
 
