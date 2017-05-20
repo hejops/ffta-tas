@@ -3,16 +3,15 @@
 easy:
 dialog,
 menu movement
+AI/critical/miss manipulation
 
 moderate:
-critical/miss manipulation,
 world map cursor movement,
 money management,
 laws,
 quest rewards
+enemy clan movement,
+max/min stat manipulation
 
 difficult:
-max/min stat manipulation,
-map arrangement & movement (graph theory),
-enemy clan movement,
-AI manipulation
+map arrangement & movement (graph theory)
