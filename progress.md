@@ -332,7 +332,10 @@ Sprohm -> Ulei in 8 days = Sprohm -> above Lutia -> right of Ulei -> Ulei
 
 - laws changed, so i had to spend some days to get recommend Fire at Cadoan
 - it was only HERE that i remembered you could hold B to speed up the world map cursor... shit. there goes like at least 50 frames.
-- the 2 enemies at the top are tricky to deal with quickly
+- DEF is easiest to kill - a crit to the right, then down (with fall damage)
+- FGT and GLD are probably 2-3HKO
+- ILU should be OHKO from Marche, if not, reset
+- the 2 enemies at the top are tricky to deal with quickly; send at least 2 units up (usually marche + bangaa1). though there is no fall damage, at least 1 of them should be knocked down so they can be more quickly killed by the units left at the middle section.
 - mont reached 10 JP
 - getting 2 Speed for Marche was incredibly tedious (78 frames), especially since he had the last turn
 
