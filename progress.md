@@ -8,6 +8,7 @@
 106317 Eluut
 127497 Ulei
 163020 Cadoan
+198034 Aisen
 ```
 
 # Things to fix/consider
