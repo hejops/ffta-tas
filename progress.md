@@ -337,5 +337,15 @@ Sprohm -> Ulei in 8 days = Sprohm -> above Lutia -> right of Ulei -> Ulei
 
 # 7. Diamond Rain
 
-- changed FGT+GLD (Atmos)
--
+- failed 2 quests to upgrade shop now.
+- changed FGT+GLD (Shadow)
+- straightforward. Famfrit kills Flan, and 1 more Fight kills Bomb. Beatdown kills Lamia. The Dragons need 2-3 Beatdowns.
+
+# 8. Hot Awakening
+
+- Logos is VERY difficult to rig. trust me. ban Charm is important.
+
+# 9. Magic Wood
+
+- on turn 1, most important units to sleep are: SUM, BLK, THF (at least 1). the magic users are particularly aggressive with their AI.
+- try to make sure TIM can be OHKO'd (i fell short by just 1 HP)
