@@ -347,5 +347,13 @@ Sprohm -> Ulei in 8 days = Sprohm -> above Lutia -> right of Ulei -> Ulei
 
 # 9. Magic Wood
 
-- on turn 1, most important units to sleep are: SUM, BLK, THF (at least 1). the magic users are particularly aggressive with their AI.
-- try to make sure TIM can be OHKO'd (i fell short by just 1 HP)
+- on turn 1, most important units to sleep are: SUM, BLK, THF (at least 1). the magic users AI is very aggressive.
+- try to make sure TIM can be OHKO'd (i redid when fell short by just 1 HP)
+
+# 10. Emerald Keep
+
+- can be done extremely quickly if sleep hits all. i don't think Babus ever fights, but Quarter is the fastest spell.
+
+# 11. Adrammalech
+
+-
