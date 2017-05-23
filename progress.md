@@ -354,6 +354,10 @@ Sprohm -> Ulei in 8 days = Sprohm -> above Lutia -> right of Ulei -> Ulei
 
 - can be done extremely quickly if sleep hits all. i don't think Babus ever fights, but Quarter is the fastest spell.
 
-# 11. Adrammalech
+# 11. Adrammelech
+
+- 2 Estreledge Beatdown (from now on referred to as EB) + 1 from Marche (may not be necessary if WAR has ~220 Attack) + sleep-all
+
+# 12. Jagd Hunt
 
 -
