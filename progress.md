@@ -361,4 +361,14 @@ Sprohm -> Ulei in 8 days = Sprohm -> above Lutia -> right of Ulei -> Ulei
 # 12. Jagd Hunt
 
 - BLU has Immunity
-- 
+- sent WAR up to kill HUN and BLU, then come back down to EB the turtle
+- Marche and Bangaa2 killed ASN and NIN
+- Human1 dealt with ANT, later joined by Marche
+
+# 13. The Bounty
+
+- used Telaq for the first time
+- strongly dependent on enemy formation
+- BLK must be slower than Mont
+- WAR must kill RED before she takes her turn
+- FGT must be Beatdown'd twice with Atmos
