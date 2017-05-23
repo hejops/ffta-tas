@@ -15,11 +15,11 @@
 
 - use B during cursor movement
 - get a MNK instead of WAR
-- get 5 Atmos?
 - Magic Ring/Air Render for Desert Peril?
 - Air Render for Famfrit?
-- get Montblanc JP faster
+- get Montblanc JP faster?
 - ~~**Telaq** (redo from place Eluut)~~
+- does Scouring Time count as 2 battles? if so then didn't need to fail Friend Trouble
 
 # Intro, Snowball, Lizards
 followed FellVisage's run more or less
