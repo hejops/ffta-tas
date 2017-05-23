@@ -348,7 +348,7 @@ Sprohm -> Ulei in 8 days = Sprohm -> above Lutia -> right of Ulei -> Ulei
 # 9. Magic Wood
 
 - on turn 1, most important units to sleep are: SUM, BLK, THF (at least 1). the magic users AI is very aggressive.
-- try to make sure TIM can be OHKO'd (i redid when fell short by just 1 HP)
+- try to make sure TIM can be OHKO'd (i redid when GLD fell short by just 1 HP)
 
 # 10. Emerald Keep
 
@@ -360,4 +360,5 @@ Sprohm -> Ulei in 8 days = Sprohm -> above Lutia -> right of Ulei -> Ulei
 
 # 12. Jagd Hunt
 
--
+- BLU has Immunity
+- 
