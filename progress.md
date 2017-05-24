@@ -19,7 +19,8 @@
 - Air Render for Famfrit?
 - get Montblanc JP faster?
 - ~~**Telaq** (redo from place Eluut)~~
-- does Scouring Time count as 2 battles? if so then didn't need to fail Friend Trouble
+- does Scouring Time count as 2 battles? if so then didn't need to fail Friend Trouble. but that doesn't really matter (like, at all) because Marche can only switch to PAL after Scouring Time
+- discard law cards before Big Find
 
 # Intro, Snowball, Lizards
 followed FellVisage's run more or less
@@ -372,3 +373,28 @@ Sprohm -> Ulei in 8 days = Sprohm -> above Lutia -> right of Ulei -> Ulei
 - BLK must be slower than Mont
 - WAR must kill RED before she takes her turn
 - FGT must be Beatdown'd twice with Atmos
+
+# 14. Golden Clock
+
+- would seem trivial, but there are a number of things that must be considered
+- Shara should crit KO TIM
+- Damage > MP must be nullified by Disable; it is still active during Sleep. then kill with EB.
+- JGL must be killed by Shara and Ritz; Air Render does jack shit to it.
+- Marche and Human deal with ALC
+
+# 15. Scouring Time
+
+- A very interesting fight. at this point, only WAR can OHKO (either with EB or crits), and the rest can barely 2HKO. so i decided to let WAR do all the work. this involved planning a good route around the map, and manipulating enemy movement with Marche and Montblanc. You'll notice I wasted one of WAR's turns because I couldn't manipulate the last 2 units properly. I was hoping they would come to Marche but this didn't happen.
+- Babus is easily 3HKO'd (killing him saves time, obviously)
+- 3 of the fruits take less damage than the rest, despite having the same defense.
+- this helped Marche gain a bunch of levels to put him on par with WAR (after switching to PAL with SaveTheQueen)
+
+# 16. The Big Find
+- Shop upgraded. Bought Headbands, Power Sashes, Lohengrins (for Llednar) and Dash Boots.
+- Got Tiptaptwo. It's immensely useful since Montblanc now becomes the 2nd fastest unit.
+- Changed Marche + FGT to PAL with SaveTheQueen.
+- with 5 Move, WAR is the only one who can reach the uppermost Bishop (and OHKO it) in 2 turns
+- Sleep requirements are pretty relaxed here. Only both Bishops and 1 Fighter need to be hit. 1 Thief can be dealt with by PAL+FGT, the other is KO'd by WAR while he makes his way up. The other Fighter is easily OHKO'd by Marche.
+- Marche finishes up the next Bishop, and PAL+FGT KO the next Fighter.
+- I'm starting to wonder if I really need Bangaa 2...
+- Fuck those law cards. Can't be arsed to redo this right now.
