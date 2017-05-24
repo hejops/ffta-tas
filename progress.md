@@ -397,4 +397,4 @@ Sprohm -> Ulei in 8 days = Sprohm -> above Lutia -> right of Ulei -> Ulei
 - Sleep requirements are pretty relaxed here. Only both Bishops and 1 Fighter need to be hit. 1 Thief can be dealt with by PAL+FGT, the other is KO'd by WAR while he makes his way up. The other Fighter is easily OHKO'd by Marche.
 - Marche finishes up the next Bishop, and PAL+FGT KO the next Fighter.
 - I'm starting to wonder if I really need Bangaa 2...
-- Fuck those law cards. Can't be arsed to redo this right now.
+- Discarding law cards is a tricky thing. I thought discarding 15 of them through Clan menu would be faster, but it actually takes about 1105 frames, while discarding after quests should take around 63 * 8 = 504 frames. Could trading with Ezel be faster?
