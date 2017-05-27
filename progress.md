@@ -18,12 +18,12 @@
 - use B during cursor movement
 - use only 5 units (scrap Human2)
 - **get a MNK instead of WAR**
-- Wizard Hat/Air Render for Desert Peril?
-- Air Render for Famfrit?
+- replace 1 Atmos Blade with Wizard Hat for Desert Peril
+- Air Render for Desert Peril/Famfrit?
 - get Montblanc JP faster?
 - ~~**Telaq** (redo from place Eluut)~~
 - does Scouring Time count as 2 battles? if so then didn't need to fail Friend Trouble. but that doesn't really matter (like, at all) because Marche can only switch to PAL after Scouring Time
-- scrap Telaq -> get something better
+- scrap Telaq Flower -> get something better from the map
 - micromanage equipment?
 
 # Intro, Snowball, Lizards
