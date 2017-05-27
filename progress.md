@@ -27,6 +27,7 @@
 - does Scouring Time count as 2 battles? if so then didn't need to fail Friend Trouble. but that doesn't really matter (like, at all) because Marche can only switch to PAL after Scouring Time
 - scrap Telaq Flower -> get Gastra instead?
 - micromanage equipment?
+- enemies that may require stat rigging and/or optimised Attack: Cadoan ILU, Magic Wood TIM, Hidden Vein ANM
 
 # Intro, Snowball, Lizards
 
