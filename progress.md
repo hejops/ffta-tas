@@ -18,7 +18,7 @@
 - use B during cursor movement
 - use only 5 units (scrap Human2)
 - **get a MNK instead of WAR**
-- Magic Ring/Air Render for Desert Peril?
+- Wizard Hat/Air Render for Desert Peril?
 - Air Render for Famfrit?
 - get Montblanc JP faster?
 - ~~**Telaq** (redo from place Eluut)~~
@@ -144,7 +144,7 @@ MAR KO BLK, just needed a bit of that damage fluctuation
 
 # 4. Desert Peril
 
-- montblanc simply cannot OHKO Flan without a Magic Ring
+- montblanc simply cannot OHKO Flan without a Wizard Hat
 - Speed requirements:
 * Antlion > Marche, so that ANT can be reached on turn 1
 * Montblanc > Flan, duh
