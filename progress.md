@@ -9,24 +9,28 @@
 127497 Ulei
 163020 Cadoan
 198034 Aisen
+
+653404 Mewt!
 ```
 
 # Things to fix/consider
 
 - use B during cursor movement
-- get a MNK instead of WAR
+- use only 5 units (scrap Human2)
+- **get a MNK instead of WAR**
 - Magic Ring/Air Render for Desert Peril?
 - Air Render for Famfrit?
 - get Montblanc JP faster?
 - ~~**Telaq** (redo from place Eluut)~~
 - does Scouring Time count as 2 battles? if so then didn't need to fail Friend Trouble. but that doesn't really matter (like, at all) because Marche can only switch to PAL after Scouring Time
-- discard law cards before Big Find
+- scrap Telaq -> get something better
+- micromanage equipment?
 
 # Intro, Snowball, Lizards
-followed FellVisage's run more or less
 
+- followed FellVisage's run more or less
 - unequipped armor
-- changed monk -> warrior
+- changed MNK -> WAR
 - fired viera, nu mou
 
 ## Shop 1
@@ -40,96 +44,22 @@ followed FellVisage's run more or less
 
 # 1. Herb Picking
 
-placed units in normal order
-bangaa1 OHKO'd fairy (cost 4 frames)
-bangaa1 can crit redcap, but would cost 70 frames! (56935)
-mont doesn't do anything useful
-human1 crit only took about 20 frames, fortunately
-marche crit only took 2 frames lmao
-
-test from 58511; marche KO'd 2nd last enemy -> final input of battle; should marche move? YES
-(i think goblin will always head for human1)
-don't move, kill next turn - 60335
-move 1 tile (don't block human1), let human1 kill - 60219
-
-was a rather easy fight - i doubt bringing 1-2 more units would speed it up
-got corpse shifted tho >:(
-
-need 2 atmos blades on dueling sub AND thesis hunt, which is pretty hard, so i settled for 1; atmos on dueling wouldn't appear even after 60+ frames [area for improvement, tho idk how much better 1 more atmos'd be]
-
-```
-warrior
-64060 - 1st allowed finish
-64064 - 113/100
-64081 - 114/101
-64083 - 111/103 ! <- went with this dude
-64093 - 116/101 !
-64105 - 113/100
-```
-no white monks appeared within this time so i didn't try further
-
-human (1st attempt)
-```
-64703 - 88/113 - ARC, 1st allowed finish
-64705 - 99/107 - BLU
-64707 - 100/106 - BLU
-64708 - 105/104 - BLU
-64710 - 105/132 - NIN !!! <- duh
-64711 - 110/125 - HUN
-64713 - 115/115 - FGT
-64714 - 109/119 - HUN
-64715 - 113/117 - HUN
-64716 - 111/111 - SLD
-64717 - 102/103 - PAL
-64718 - 108/110 - SLD
-64719 - 114/113 - FGT
-64720 - 105/126 - NIN
-```
-
-human (2nd attempt; had to redo since i forgot an extra button press on warrior)
-```
-64644 - 92/120 - ARC, 1st allowed finish
-64652 - 105/125 - NIN
-64677 - 109/129 - NIN
-64680 - 104/136 - NIN !!! <- even better, still earlier overall
-```
-
-human (3rd attempt; forgot to buy quest before going to lutia)
-- 132 Speed on 1st frame lmao
-
-changed NIN->SLD, equipped Shortswords
+- placed units in normal order
+- mont doesn't do anything useful here
+- was a rather easy fight - i doubt bringing 1-2 more units would speed it up
+- ~~need 2 atmos blades on dueling sub AND thesis hunt, which is pretty hard, so i settled for 1; atmos on dueling wouldn't appear even after 60+ frames~~ at most 3 Atmos Blades are necessary
+- did Dueling Sub and Human Wanted
+- warrior: 103 Speed WAR; no white monks appeared within this time so i didn't try further - big mistake!
+- human: 132 Speed NIN
+- changed NIN->SLD, equipped Shortswords on new recruits
 
 # 2. Thesis Hunt
 
-law is currently recommend fire; will probably use it instead of Thunder for JP since the frame cost is low
-
-position:
-SLD2 WAR2 SLD1 WAR1 MON MAR
+- law is currently recommend fire; used it instead of Thunder for JP since the frame cost is low; this will be important for Totema later
 
 WHT, ARC - easy OHKO (turn 1-2)
 THF - 2HKO (
 SLD - 3HKO
-
-observations
-```
->SLD2 wait? advancing will attract THFA - not good; bait ARC by moving left?
-THFA will always reach someone and fight, usually MON or unit to MON's left
-THFB will advance
->WAR1 fight THFA, try to do 24-25
-WHT will try to heal THFA, else wait, bait him to come down
-ARC must fight, DON'T LET HIM ASCEND
->SLD1 advance and turn back to SLDA; let Mont KO THFA?
->MAR must CKO [WHT]
-SLDA will fight SLD1
->MON KO [THFA] (try to hit SLD also)
->WAR2 crit SLDA ~24
-SLDB will descend and fight
-
->SLD2 crit SLDA ~24
->WAR1 crit SLDB ~24
->SLD1 
->MAR CKO [ARC]
-```
 
 actual
 ```
@@ -169,27 +99,12 @@ satisfactory; just over 2 turns
 
 ## Shop 2
 
-bought 3 Silver Sword + 1 Jack Knife; Jack Knife is just a page below Silver Sword, conveniently
+- bought 3 Silver Sword + 1 Jack Knife; Jack Knife is just a page below Silver Sword, conveniently
 
 # 3. The Cheetahs
 
-Lightning banned on this day, not a big deal tho
-units reduced by 2, so left the new recruits behind (reaching new jobs is priority, and the first 2 have Gauntlets anyway)
-
-observations
-```
->RIT advance, fight, KO THF possible
->SHA fight, can't KO BLK
-ARC advance Disable
-THF should be dead
-WAR crit ARC (can't OHKO, need 2 crit)
-MNK advance, try to avoid Air Render
-FGT fight RITZ, good
-SLD probably can't reach anyone yet
-MAR can only reach 1 tile beyond the water
-MON Fire, must try to KO tho very unlikely
-BLK target MAR+MON, so keep them separate
-```
+- Lightning banned on this day, not a big deal tho
+- units reduced by 2, so left the new recruits behind (reaching new jobs is priority, and the first 2 have Gauntlets anyway)
 
 actual
 ```
@@ -215,50 +130,25 @@ SLD KO FGT, did a bit of judge manip
 MAR KO BLK, just needed a bit of that damage fluctuation
 ```
 
-marche ended quite near ritz so this saved some frames
-
-just below 2 turns, quite satisfactory
-
-i messed around with UU DD and ended up faster than the intuitive way, goes to show cursor mechanics still need to be studied
-
-i don't think the clan can be manip'd to not spawn
-
-took a lot of guesswork but i found out that quest reward is generated on the frame you select Missions in the pub
-once i found this out khukuri only took 2 frames
+- marche ended quite near ritz so this saved some frames
+- just below 2 turns, quite satisfactory
+- i don't think the clan can be manip'd to not spawn
+- quest reward is generated on the frame you select Missions in the pub
+- khukuri only took 2 frames
 
 ## Shop 3
 
-bought 2 Gauntlets; i presume i'm gonna need all the power i can get
-[should have bought 2 Silver Swords as well]
-
-whether a clan is going to move cannot be manipulated. however, where it moves to can be. particularly, a clan going offscreen saves quite a few frames (~4).
+- bought 2 Gauntlets; i presume i'm gonna need all the power i can get
+- also 2 Silver Swords for later
+- whether a clan is going to move cannot be manipulated. however, where it moves to can be. particularly, a clan going offscreen saves quite a few frames (~4).
 
 # 4. Desert Peril
 
-1st allowed 111308
-lowest flan HP i ever saw was 28
-crits cannot do 2 damage
-so flan will have to be 2HKO, sadly
-
-COE, ANT easy 2CKO with SS
-
-observations
-```
-SLD2 don't move
-PAN advance
-WAR1 don't move
-COE1&2 advance
-SLD1 crit
-ANT advance
-MAR crit ANT
-MON can't KO flan with normal variance, shiiiiet
-```
-
-Speed requirements
-ANT > MAR (108) - 111308 / 111324 (so that ANT is easier to reach)
-MON > FLA
-
-place 2 Silver Sword users (1 being MAR) on ANT side
+- montblanc simply cannot OHKO Flan without a Magic Ring
+- Speed requirements:
+* Antlion > Marche, so that ANT can be reached on turn 1
+* Montblanc > Flan, duh
+- place 2 Silver Sword users (1 being MAR) on ANT side
 
 actual
 ```
@@ -289,32 +179,24 @@ WAR1 wait
 ```
 
 2+ turns, blame the COE
-areas for improvement:
-Air Render for COE
-OHKO FLN
+areas for improvement: Air Render for COE? OHKO FLN with Magic Ring
 
-mont stil has only 4 JP. don't think i'm going to reach 10 by Diamond Rain without using laws
-
-therefore here are my options
+- mont stil has only 4 JP. don't think i'm going to reach 10 by Diamond Rain without using laws. therefore here are my options: 
 
 1. do diamond rain normally - most straightforward, but the battle may be difficult
 2. farm JP at Famfrit with self-target Ice / Fire (Ice costs 6\*40=240 frames, but Fire costs in-game days)
 3. farm JP at Cadoan with Ice / Fire
 4. farm JP at Famfrit AND Cadoan (4 days apart) - 6 JP can likely be gotten naturally (3 each), but involves weird routing and costs in-game days
 
-i will try 2 first, since mont's damage against fam is minimal anyway
+- i went ahead with 4
 
-just realised i should have bought 2 more Silver Swords when i bought the Gauntlets. so i redid the entire fight to test if reducing shop visits really saves time.
+- just realised i should have bought 2 more Silver Swords when i bought the Gauntlets. so i redid the entire fight to test if reducing shop visits really saves time. it does. each additional visit costs about 4 secs.
 
-- 2 visits - 129419
-- 1 visit - 129197
-
-so yes, it does. each additional visit costs about 4 secs.
-
-Sprohm -> Ulei in 8 days = Sprohm -> above Lutia -> right of Ulei -> Ulei
+- Sprohm -> Ulei in 8 days = Sprohm -> above Lutia -> right of Ulei -> Ulei
 
 # 5. Famfrit
 
+- dumbest, slowest fight in the game
 - manip'd AHR to Roulette his allies most of the time; i think 2 Roulettes is the sweet spot. another one didn't seem necessary.
 - did with 2 different tactics: surround and take counters / avoid counters by pushing famfrit around. the former turned out to be significantly (~6s) faster since moving around is so time-consuming. therefore, for all subsequent bosses, surround will be used over push where possible.
 - used crits unless there was a level up to be optimised
@@ -398,3 +280,5 @@ Sprohm -> Ulei in 8 days = Sprohm -> above Lutia -> right of Ulei -> Ulei
 - Marche finishes up the next Bishop, and PAL+FGT KO the next Fighter.
 - I'm starting to wonder if I really need Bangaa 2...
 - Discarding law cards is a tricky thing. I thought discarding 15 of them through Clan menu would be faster, but it actually takes about 1105 frames, while discarding after quests should take around 63 * 8 = 504 frames. Could trading with Ezel be faster?
+
+# 17.
