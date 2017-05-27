@@ -18,3 +18,4 @@
 
 [map](https://lh3.googleusercontent.com/-QebsXov1U0Y/TY1xuFB1oxI/AAAAAAAAAbM/RbwHJyHxoA8/s640/ivalice_map.gif)
 
+[internal data](http://datacrystal.romhacking.net/wiki/Final_Fantasy_Tactics_Advance)
