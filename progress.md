@@ -1,5 +1,7 @@
 # [.tasproj files](https://mega.nz/#F!U3pV1QTJ!UaVEckaGbxKMvkNHss93Mg)
 
+# [Complete run, v0.9](https://www.youtube.com/watch?v=Or5ShUZxYgc)
+
 # Benchmarks
 ```
  47109 Sprohm
@@ -15,8 +17,8 @@
 
 # Things to fix/consider
 
-- use B during cursor movement
-- use only 5 units (scrap Human2)
+- use B during world map cursor movement
+- scrap Human2, or replace with something else
 - **get a MNK instead of WAR**
 - replace 1 Atmos Blade with Wizard Hat for Desert Peril
 - Air Render for Desert Peril/Famfrit?
@@ -281,4 +283,55 @@ areas for improvement: Air Render for COE? OHKO FLN with Magic Ring
 - I'm starting to wonder if I really need Bangaa 2...
 - Discarding law cards is a tricky thing. I thought discarding 15 of them through Clan menu would be faster, but it actually takes about 1105 frames, while discarding after quests should take around 63 * 8 = 504 frames. Could trading with Ezel be faster?
 
-# 17.
+# 17. Desert Patrol
+
+- walked around a bit due to a bad law (I forget what it was though)
+- DEF could not be OHKO'd with EB
+- GLD was a bitch
+
+# 18. Quiet Sands
+
+- 1st fight is easily done by killing Marche; no crit needed
+- I let the 2 dudes die since I don't use them anyway
+- 3 Beatdowns + 1 fight kills Mateus
+
+# 19. Materite Now
+
+- used one strong Totema (WAR) and one average one (PAL); Totema damage is still determined by Attack
+- technically I still have a still have an average one (Marche) and a weak one (FGT) left, but they didn't seem useful in any of the future battles
+- 2nd Estreledge makes Bangaa2 finally worth using, though he's still average and slow as shit
+- Human2 is more or less useless at this point
+
+# 20. Present Day
+
+- Easy OHKOs (2HKO for TEM); even Bangaa2 managed to OHKO ALC
+- Rigged Llednar to Fight only. Maybe turning my back to him stops him from moving?
+
+# 21. Hidden Vein
+
+- wasted 2 days due to a bad law
+- ANM stats were rigged to make him OHKO-able
+- MNK will rarely fight, instead preferring abilities
+- BLU kills self with Roulette
+- I don't know why I brought FGT; he served no purpose whatsoever
+- upper half is easily dealt with by Bangaa1 and Marche
+
+# 22. To Ambervale
+
+- by far the biggest waste of days; this last set of laws needs to be studied carefully
+- FGT helps Coeurl become OHKO-able
+- quite proud of how I killed the Lilith, though this came at the expense of giving the Dragon a turn
+
+# 23. Over the Hill
+
+- Techniques was banned, but crit+fall is both faster and funnier
+- I suppose any unit with 5 Move would do, since I'm pretty sure the fall damage is enough to kill her (though it's never actually shown)
+- Ritz and Shara have Ribbons
+
+# 24. Royal Valley
+
+- I let Marche die so NIN has nothing to do
+- maybe could have reset so WAR would be faster than GUN? haven't checked if they have comparable Speed tho
+- Llednar is easy EB OHKO
+- Remedi and Li-Grim are kind of like Scouring Time all over again, with WAR doing all the work (both ~4HKO); WAR's damage is >4x that of anyone else, and I didn't feel like Beatdown animations were worth it if I was just doing like 30 damage
+- Haste-all could come in handy here. I do wish I could've killed Remedi/Li-Grim before the minions woke up
