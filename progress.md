@@ -11,7 +11,7 @@
 127497 Ulei
 163020 Cadoan
 198034 Aisen
-
+(todo)
 653404 Mewt!
 ```
 
@@ -25,7 +25,7 @@
 - get Montblanc JP faster?
 - ~~**Telaq** (redo from place Eluut)~~
 - does Scouring Time count as 2 battles? if so then didn't need to fail Friend Trouble. but that doesn't really matter (like, at all) because Marche can only switch to PAL after Scouring Time
-- scrap Telaq Flower -> get something better from the map
+- scrap Telaq Flower -> get Gastra instead?
 - micromanage equipment?
 
 # Intro, Snowball, Lizards
