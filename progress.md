@@ -17,6 +17,8 @@
 
 # Things to fix/consider
 
+- can be replicated up to about 13:10; first thing to fix is the cursor movement
+
 - use B during world map cursor movement
 - sell the Cuirass?
 - scrap Human2, or replace with something else
