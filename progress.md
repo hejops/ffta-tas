@@ -18,7 +18,9 @@
 # Things to fix/consider
 
 - use B during world map cursor movement
+- sell the Cuirass?
 - scrap Human2, or replace with something else
+- get Lini? needs 1 extra mission though, and he's also slow as shit
 - **get a MNK instead of WAR**
 - replace 1 Atmos Blade with Wizard Hat for Desert Peril
 - Air Render for Desert Peril/Famfrit?
