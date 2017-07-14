@@ -20,7 +20,7 @@
 - can be replicated up to about 13:10; first thing to fix is the cursor movement
 
 - use B during world map cursor movement
-- sell the Cuirass?
+- Sell the Cuirass? I really don't know; it costs about 5-ish frames per armor change, but I'm pretty sure selling it takes about a second, so 60 frames. I think I'll keep it to facilitate copy-pasting.
 - scrap Human2, or replace with something else
 - get Lini? needs 1 extra mission though, and he's also slow as shit
 - **get a MNK instead of WAR**
