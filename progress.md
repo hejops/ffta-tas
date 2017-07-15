@@ -21,16 +21,16 @@
 
 - use B during world map cursor movement
 - Sell the Cuirass? I really don't know; it costs about 5-ish frames per armor change, but I'm pretty sure selling it takes about a second, so 60 frames. I think I'll keep it to facilitate copy-pasting.
-- scrap Human2, or replace with something else (Gastra ASN perhaps)
-- get Lini? needs 1 extra mission though, and he's also slow as shit
-- **get a MNK instead of WAR**
+- **Get a MNK from Dueling Sub - EXTREMELY IMPORTANT. **
+- **Still do Human Wanted, but this time just get a FGT immediately (Sweep). Buy 2 Kotetsu at Shop 4. Follow current run until Huntmoon. Dump the weaker Human before Adra. Beat Adra with 3 members. Recruit ASN afterwards (try to optimise MP), equip Kotetsu, KO Jagd turtle - should save quite a lot of time.**
+- **Further dump the other Human in favour of another ASN. Dump earliest before Jagd Hunt (recruit afterwards), and is advised, because Bounty will benefit from the additional KO. Dump latest before Golden Clock, since I'm only allowed 4 units anyway.**
 - replace 1 Atmos Blade with Wizard Hat for Desert Peril
-- Air Render for Desert Peril/Famfrit?
+- **Bangaa2 Air Render first**
 - get Montblanc JP faster?
 - ~~**Telaq** (redo from place Eluut)~~
-- does Scouring Time count as 2 battles? if so then didn't need to fail Friend Trouble. but that doesn't really matter (like, at all) because Marche can only switch to PAL after Scouring Time
+- **Still fail Friend Trouble; I realise a reequip is necessary after getting TTT, so equipping the new set of armor at this point would be convenient.**
 - scrap Telaq Flower -> get Gastra instead?
-- micromanage equipment?
+- minmax stat growth
 - enemies that may require stat rigging and/or optimised Attack: Cadoan ILU, Magic Wood TIM, Hidden Vein ANM
 
 # Intro, Snowball, Lizards
@@ -227,7 +227,7 @@ areas for improvement: Air Render for COE? OHKO FLN with Magic Ring
 
 # 7. Diamond Rain
 
-- failed 2 quests to upgrade shop now.
+- failed 2 quests to upgrade shop now (Shop 4)
 - changed FGT+GLD (Shadow)
 - straightforward. Famfrit kills Flan, and 1 more Fight kills Bomb. Beatdown kills Lamia. The Dragons need 2-3 Beatdowns.
 
