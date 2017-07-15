@@ -21,7 +21,7 @@
 
 - use B during world map cursor movement
 - Sell the Cuirass? I really don't know; it costs about 5-ish frames per armor change, but I'm pretty sure selling it takes about a second, so 60 frames. I think I'll keep it to facilitate copy-pasting.
-- **Get a MNK from Dueling Sub - EXTREMELY IMPORTANT. **
+- **Make sure Dueling Sub reward is Kaiser. Get MNK from Dueling Sub - EXTREMELY IMPORTANT.**
 - **Still do Human Wanted, but this time just get a FGT immediately (Sweep). Buy 2 Kotetsu at Shop 4. Follow current run until Huntmoon. Dump the weaker Human before Adra. Beat Adra with 3 members. Recruit ASN afterwards (try to optimise MP), equip Kotetsu, KO Jagd turtle - should save quite a lot of time.**
 - **Further dump the other Human in favour of another ASN. Dump earliest before Jagd Hunt (recruit afterwards), and is advised, because Bounty will benefit from the additional KO. Dump latest before Golden Clock, since I'm only allowed 4 units anyway.**
 - replace 1 Atmos Blade with Wizard Hat for Desert Peril
