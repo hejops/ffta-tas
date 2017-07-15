@@ -21,7 +21,7 @@
 
 - use B during world map cursor movement
 - Sell the Cuirass? I really don't know; it costs about 5-ish frames per armor change, but I'm pretty sure selling it takes about a second, so 60 frames. I think I'll keep it to facilitate copy-pasting.
-- scrap Human2, or replace with something else
+- scrap Human2, or replace with something else (Gastra ASN perhaps)
 - get Lini? needs 1 extra mission though, and he's also slow as shit
 - **get a MNK instead of WAR**
 - replace 1 Atmos Blade with Wizard Hat for Desert Peril
