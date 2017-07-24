@@ -15,10 +15,10 @@
 653404 Mewt!
 ```
 
-Benchmark | 0.9 | 1.0 | Reason
---- | --- | --- | ---
-Sprohm | 47109 | 47209 | Different core, WAR crit took longer
-Lutia | 86299 | 
+Benchmark | 0.9 | 1.0 | Diff | Reason
+--- | --- | --- | --- | ---
+Sprohm | 47109 | 47209 | +100 | Different core, WAR crit took longer
+Lutia | 62486 | 63247 | +761 | Longer shop time?
 
 # Things to fix/consider
 
