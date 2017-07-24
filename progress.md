@@ -15,6 +15,11 @@
 653404 Mewt!
 ```
 
+Benchmark | 0.9 | 1.0 | Reason
+--- | --- | --- | ---
+Sprohm | 47109 | 47209 | Different core, WAR crit took longer
+Lutia | 86299 | 
+
 # Things to fix/consider
 
 - can be replicated up to about 13:10; first thing to fix is the cursor movement
