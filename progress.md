@@ -20,6 +20,7 @@ Benchmark | 0.9 | 1.0 | Diff | Reason
 Sprohm | 47109 | 46936 | +173 | Different core, WAR crit took longer
 Lutia | 62486 | 62974 | +488 | Longer shop time?, 1 additional Thunder
 Nubs | 86299 | 83984 | -2315 | Air Render, improved tactics
+Eluut | 106317 | 101667 | -4650 | 
 
 # Things to fix/consider
 
