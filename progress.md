@@ -17,11 +17,11 @@
 
 Benchmark | 0.9 | 1.0 | Diff | Reason
 --- | --- | --- | --- | ---
-Sprohm | 47109 | 46936 | +173 | Different core, WAR crit took longer
-Lutia | 62486 | 62974 | +488 | Longer shop time?, 1 additional Thunder
-Nubs | 86299 | 83984 | -2315 | Air Render, improved tactics
-Eluut | 106317 | 101667 | -4650 | 
-Ulei | 127497 | 120716 | -7231 | No shop, shorter setup; could be **even** faster with Atmos
+Sprohm | 47109 | 47207 | +98 | Different core, WAR crit took longer
+Lutia | 62486 | 63245 | +759 | Longer shop time?, 1 additional Thunder
+Nubs | 86299 | 84255 | -2044 | Air Render, improved tactics
+Eluut | 106317 | 101938 | -4379 | 
+Ulei | 127497 | 120987 | -6510 | No shop, shorter setup; could be **even** faster with Atmos
 
 # Things to fix/consider
 
@@ -31,7 +31,7 @@ Ulei | 127497 | 120716 | -7231 | No shop, shorter setup; could be **even** faste
 - **~~Still do Human Wanted, but this time just get a FGT immediately (Sweep).~~ Buy 2 Kotetsu at Shop 4. Follow current run until Huntmoon. Dump the weaker Human before Adra. Beat Adra with 3 members. Recruit ASN afterwards (try to optimise MP), equip Kotetsu, KO Jagd turtle - should save quite a lot of time.**
 - **Further dump the other Human in favour of another ASN. Dump earliest before Jagd Hunt (recruit afterwards), and is advised, because Bounty will benefit from the additional KO. Dump latest before Golden Clock, since I'm only allowed 4 units anyway.**
 - ~~replace 1 Atmos Blade with Firewheel Rod for Desert Peril~~
-- Atmos + Firewheel from Cheetahs would be amazing (I actually got that, but during a botched run)
+- Kaiser + Atmos + Firewheel. Harder than it sounds; Dueling Sub and Thesis Hunt appear at the same time, and Cheetahs gives 2 rewards at once. Obviously the latter should be easier to manipulate, but the odds are staggeringly low (0.5% if my math is right).
 - get Montblanc JP faster?
 - ~~**Telaq** (redo from place Eluut)~~
 - **Still fail Friend Trouble; I realise a reequip is necessary after getting TTT, so equipping the new set of armor at this point would be convenient.**
