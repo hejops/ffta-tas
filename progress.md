@@ -22,6 +22,7 @@ Lutia | 62486 | 63245 | +759 | Longer shop time?, 1 additional Thunder
 Nubs | 86299 | 84255 | -2044 | Air Render, improved tactics
 Eluut | 106317 | 101938 | -4379 | 
 Ulei | 127497 | 120987 | -6510 | No shop, shorter setup; could be **even** faster with Atmos
+Cadoan | 163020	| 153772 | -9248 | Air Render
 
 # Things to fix/consider
 
