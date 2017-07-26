@@ -11,7 +11,7 @@ Nubs | 86299 | 84255 | -2044 | Air Render, improved tactics
 Eluut | 106317 | 101938 | -4379 | 
 Ulei | 127497 | 120987 | -6510 | No shop, shorter setup; could be **even** faster with Atmos
 Cadoan | 163020	| 153772 | -9248 | Air Render
-Aisen | 198034 | 192082 |	-5952.00 | Had to fail a battle, wasted turns for JP
+Aisen | 198034 | 192082 |	-5952 | Had to fail a battle, wasted turns for JP
 Roda | 222947 | 210655	| -12292 | OHKO Lamia, didn't bother getting Telaq
 
 # Things to fix/consider
@@ -26,6 +26,7 @@ Roda | 222947 | 210655	| -12292 | OHKO Lamia, didn't bother getting Telaq
 - get Montblanc JP without wasting turns?
 - equip Gauntlets on Sotel what the fuck
 - beat Ultima without banning Charm? probably not worth it since Logos animation is ungodly long
+- The L12 Ultima crystal that right next to Marche nearly impossible for Marche and Mont to kill in 2 turns, unless Mont also uses both his turns on that crystal - not ideal since 1 of Mont's turns should be reserved for the one near the Bangaas. So I let Marche take his time to 3HKO it, shifted Mont to the right to Thunder the next nearest crystal before the Bangaas reach it. I hope the levels gained by Bangaa2 prove useful in future.
 - ~~**Telaq** (redo from place Eluut)~~
 - **Still need to fail a third time; I realise a reequip is necessary after getting TTT, so equipping the new set of armor at this point would be convenient.**
 - scrap Telaq Flower -> get Gastra instead?
