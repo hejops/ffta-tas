@@ -3,18 +3,6 @@
 # [Complete run, v0.9](https://www.youtube.com/watch?v=Or5ShUZxYgc)
 
 # Benchmarks
-```
- 47109 Sprohm
- 62486 Lutia
- 86299 Nubs
-106317 Eluut
-127497 Ulei
-163020 Cadoan
-198034 Aisen
-(todo)
-653404 Mewt!
-```
-
 Benchmark | 0.9 | 1.0 | Diff | Reason
 --- | --- | --- | --- | ---
 Sprohm | 47109 | 47207 | +98 | Different core, WAR crit took longer
@@ -24,23 +12,23 @@ Eluut | 106317 | 101938 | -4379 |
 Ulei | 127497 | 120987 | -6510 | No shop, shorter setup; could be **even** faster with Atmos
 Cadoan | 163020	| 153772 | -9248 | Air Render
 Aisen | 198034 | 192082 |	-5952.00 | Had to fail a battle, wasted turns for JP
-
+Roda | 222947 | 210655	| -12292 | OHKO Lamia, didn't bother getting Telaq
 
 # Things to fix/consider
 
 - ~~use B during world map cursor movement~~
-- Sell the Cuirass? I really don't know; it costs about 5-ish frames per armor change, but I'm pretty sure selling it takes about a second, so 60 frames. I think I'll keep it to facilitate copy-pasting.
+- ~~Sell the Cuirass~~
 - ~~**Make sure Dueling Sub reward is Kaiser. Get MNK from Dueling Sub - EXTREMELY IMPORTANT. Bangaa2 learn Air Render first.**~~
-- **~~Still do Human Wanted, but this time just get a FGT immediately (Sweep).~~ Buy 2 Kotetsu at Shop 4. Follow current run until Huntmoon. Dump the weaker Human before Adra. Beat Adra with 3 members. Recruit ASN afterwards (try to optimise MP), equip Kotetsu, KO Jagd turtle - should save quite a lot of time.**
+- **~~Still do Human Wanted, but this time just get a FGT immediately (Sweep). Get 2 Kotetsu from quest (type 3).~~ Follow current run until Huntmoon. Dump the weaker Human before Adra. Beat Adra with 3 members. Recruit ASN afterwards (try to optimise MP), equip Kotetsu, KO Jagd turtle - should save quite a lot of time.**
 - **Further dump the other Human in favour of another ASN. Dump earliest before Jagd Hunt (recruit afterwards), and is advised, because Bounty will benefit from the additional KO. Dump latest before Golden Clock, since I'm only allowed 4 units anyway.**
 - ~~replace 1 Atmos Blade with Firewheel Rod for Desert Peril~~
 - Kaiser + Atmos + Firewheel. Harder than it sounds; Dueling Sub and Thesis Hunt appear at the same time, and Cheetahs gives 2 rewards at once. Obviously the latter should be easier to manipulate, but the odds are staggeringly low (0.5% if my math is right).
-- get Montblanc JP faster?
+- get Montblanc JP without wasting turns?
+- beat Ultima without banning Charm? probably not worth it since Logos animation is ungodly long
 - ~~**Telaq** (redo from place Eluut)~~
-- **Still fail Friend Trouble; I realise a reequip is necessary after getting TTT, so equipping the new set of armor at this point would be convenient.**
+- **Still need to fail a third time; I realise a reequip is necessary after getting TTT, so equipping the new set of armor at this point would be convenient.**
 - scrap Telaq Flower -> get Gastra instead?
-- minmax stat growth
-- enemies that may require stat rigging and/or optimised Attack: Cadoan ILU, Magic Wood TIM, Hidden Vein ANM
+- enemies that may require stat rigging and/or optimised Attack: Cadoan ILU (if Silver Sword), Magic Wood TIM, Hidden Vein ANM
 
 # Intro, Snowball, Lizards
 
