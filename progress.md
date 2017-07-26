@@ -24,6 +24,7 @@ Roda | 222947 | 210655	| -12292 | OHKO Lamia, didn't bother getting Telaq
 - ~~replace 1 Atmos Blade with Firewheel Rod for Desert Peril~~
 - Kaiser + Atmos + Firewheel. Harder than it sounds; Dueling Sub and Thesis Hunt appear at the same time, and Cheetahs gives 2 rewards at once. Obviously the latter should be easier to manipulate, but the odds are staggeringly low (0.5% if my math is right).
 - get Montblanc JP without wasting turns?
+- equip Gauntlets on Sotel what the fuck
 - beat Ultima without banning Charm? probably not worth it since Logos animation is ungodly long
 - ~~**Telaq** (redo from place Eluut)~~
 - **Still need to fail a third time; I realise a reequip is necessary after getting TTT, so equipping the new set of armor at this point would be convenient.**
