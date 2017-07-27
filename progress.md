@@ -24,7 +24,7 @@ Baguba  | 314232 | 302765	| -11467 | Used less units
 - ~~use B during world map cursor movement~~
 - ~~Sell the Cuirass~~
 - ~~**Make sure Dueling Sub reward is Kaiser. Get MNK from Dueling Sub - EXTREMELY IMPORTANT. Bangaa2 learn Air Render first.**~~
-- **~~Still do Human Wanted, but this time just get a FGT immediately (Sweep). Get 2 Kotetsu from quest (type 3).~~ Follow current run until Huntmoon. Dump the weaker Human before Adra. Beat Adra with 3 members. Recruit ASN afterwards (try to optimise MP), equip Kotetsu, KO Jagd turtle - should save quite a lot of time.**
+- **~~Still do Human Wanted, but this time just get a FGT immediately (Sweep). Get 2 Kotetsu from quest (type 3). Follow current run until Huntmoon. Dump the weaker Human before Adra. Beat Adra with 3 members. Recruit ASN afterwards (try to optimise MP), equip Kotetsu, KO Jagd turtle - should save quite a lot of time.~~**
 - Dump Human1 even earlier
 - **Further dump the other Human in favour of another ASN. Dump earliest before Jagd Hunt (recruit afterwards), and is advised, because Bounty will benefit from the additional KO. Dump latest before Golden Clock, since I'm only allowed 4 units anyway.**
 - ~~replace 1 Atmos Blade with Firewheel Rod for Desert Peril~~
