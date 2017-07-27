@@ -29,6 +29,8 @@ Roda | 222947 | 210655	| -12292 | OHKO Lamia, didn't bother getting Telaq
 - ~~**Telaq** (redo from place Eluut)~~
 - **Still need to fail a third time; I realise a reequip is necessary after getting TTT, so equipping the new set of armor at this point would be convenient.**
 - scrap Telaq Flower -> get Gastra instead?
+- get Claymore as makeshift Estreledge (type 6, earliest Quiet Sands)
+- try to get (2) Masamune from To Ambervale/Over the Hill (when are such rewards generated?)
 - enemies that may require stat rigging and/or optimised Attack: Cadoan ILU (if Silver Sword), Magic Wood TIM, Hidden Vein ANM
 
 # Intro, Snowball, Lizards
