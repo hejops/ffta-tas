@@ -5,14 +5,19 @@
 # Benchmarks
 Benchmark | 0.9 | 1.0 | Diff | Reason
 --- | --- | --- | --- | ---
-Sprohm | 47109 | 47207 | +98 | Different core, WAR crit took longer
-Lutia | 62486 | 63245 | +759 | Longer shop time?, 1 additional Thunder
-Nubs | 86299 | 84255 | -2044 | Air Render, improved tactics
-Eluut | 106317 | 101938 | -4379 | 
-Ulei | 127497 | 120987 | -6510 | No shop, shorter setup; could be **even** faster with Atmos
-Cadoan | 163020	| 153772 | -9248 | Air Render
-Aisen | 198034 | 192082 |	-5952 | Had to fail a battle, wasted turns for JP
-Roda | 222947 | 210655	| -12292 | OHKO Lamia, didn't bother getting Telaq
+Sprohm  | 47109 | 47207 | +98 | Different core, WAR crit took longer
+Lutia   | 62486 | 63245 | +759 | Longer shop time?, 1 additional Thunder
+Nubs    | 86299 | 84255 | -2044 | Air Render, improved tactics
+Eluut   | 106317 | 101938 | -4379 | 
+Ulei    | 127497 | 120987 | -6510 | No shop, shorter setup; could be **even** faster with Atmos
+Cadoan  | 163020 | 153772 | -9248 | Air Render
+Aisen   | 198034 | 192082 |	-5952 | Had to fail a battle, wasted turns for JP
+Roda    | 222947 | 210655	| -12292 | OHKO Lamia, didn't bother getting Telaq
+Koring  | 261582 | 254573	| -7009 | Much weaker units
+Salika  | 286635 | 277753	| -8882 | Less wasted turns
+Nargai  | 297275 | 286211 |	-11064 | Didn't need to use Sleep
+Baguba  | 314232 | 302765	| -11467 | Used less units
+
 
 # Things to fix/consider
 
@@ -20,12 +25,14 @@ Roda | 222947 | 210655	| -12292 | OHKO Lamia, didn't bother getting Telaq
 - ~~Sell the Cuirass~~
 - ~~**Make sure Dueling Sub reward is Kaiser. Get MNK from Dueling Sub - EXTREMELY IMPORTANT. Bangaa2 learn Air Render first.**~~
 - **~~Still do Human Wanted, but this time just get a FGT immediately (Sweep). Get 2 Kotetsu from quest (type 3).~~ Follow current run until Huntmoon. Dump the weaker Human before Adra. Beat Adra with 3 members. Recruit ASN afterwards (try to optimise MP), equip Kotetsu, KO Jagd turtle - should save quite a lot of time.**
+- Dump Human1 even earlier
 - **Further dump the other Human in favour of another ASN. Dump earliest before Jagd Hunt (recruit afterwards), and is advised, because Bounty will benefit from the additional KO. Dump latest before Golden Clock, since I'm only allowed 4 units anyway.**
 - ~~replace 1 Atmos Blade with Firewheel Rod for Desert Peril~~
 - Kaiser + Atmos + Firewheel. Harder than it sounds; Dueling Sub and Thesis Hunt appear at the same time, and Cheetahs gives 2 rewards at once. Obviously the latter should be easier to manipulate, but the odds are staggeringly low (0.5% if my math is right).
 - get Montblanc JP without wasting turns?
 - equip Gauntlets on Sotel earlier
-- **Beat Ultima without banning Charm? The only way to do this is to use Famfrit**
+- **Beat Ultima without banning Charm? The only way to do this is to use Famfrit; I'll calculate the damage some time soon**
+- I considered using Adrammelech at Dorsa (after watching the RTA), but Bangaa1 only has 9 JP at this point, and the damage is only enough to OHKO the Assassin
 - ~~**Telaq** (redo from place Eluut)~~
 - **Still need to fail a third time; I realise a reequip is necessary after getting TTT, so equipping the new set of armor at this point would be convenient.**
 - scrap Telaq Flower -> get Gastra instead?
