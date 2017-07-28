@@ -40,6 +40,7 @@ Baguba  | 314232 | 302765	| -11467 | Used less units
 - ~~**Telaq** (redo from place Eluut)~~
 - ~~**Still need to fail a third time; I realise a reequip is necessary after getting TTT, so equipping the new set of armor at this point would be convenient.**~~
 - fail 2 more times to upgrade shop before Scouring Time
+- get Ritz to hit the Juggler instead
 - scrap Telaq Flower -> get Gastra instead?
 - get Claymore as makeshift Estreledge (type 6, earliest Quiet Sands)
 - try to get (2) Masamune from To Ambervale/Over the Hill (when are such rewards generated?)
