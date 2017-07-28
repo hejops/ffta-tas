@@ -44,6 +44,7 @@ Baguba  | 314232 | 302765	| -11467 | Used less units
 - do Golden Clock without Petrify being banned (should've checked earlier lol)
 - get Ritz to hit the Juggler instead
 - flee the last clan better (I forgot you can't flee in jagds so I had to go to Nargai)
+- given how fast the Assassins are, they might be able to get in another Rockseal on Scouring Time
 - scrap Telaq Flower -> get Gastra instead?
 - ~~get El Cid as temporary Estreledge (type 5)~~
 - try to get (2) Masamune from To Ambervale/Over the Hill (when are such rewards generated?)
