@@ -48,6 +48,7 @@ Baguba  | 314232 | 302765	| -11467 | Used less units
 - ~~get El Cid as temporary Estreledge (type 5)~~
 - try to get (2) Masamune from To Ambervale/Over the Hill (when are such rewards generated?)
 - enemies that may require stat rigging: Cadoan ILU (if Silver Sword), Magic Wood TIM, Hidden Vein ANM, Jagd Hunt ANT, Scouring Time GUN (Speed)
+- I discovered that may be generated upon some pre-battle dialog. For example, stats are generated when you press A on "It's enough reason for me..." at Scouring Time.
 
 # Intro, Snowball, Lizards
 
