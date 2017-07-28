@@ -25,16 +25,19 @@ Baguba  | 314232 | 302765	| -11467 | Used less units
 - ~~Sell the Cuirass~~
 - ~~**Make sure Dueling Sub reward is Kaiser. Get MNK from Dueling Sub - EXTREMELY IMPORTANT. Bangaa2 learn Air Render first.**~~
 - **~~Still do Human Wanted, but this time just get a FGT immediately (Sweep). Get 2 Kotetsu from quest (type 3). Follow current run until Huntmoon. Dump the weaker Human before Adra. Beat Adra with 3 members. Recruit ASN afterwards (try to optimise MP), equip Kotetsu, KO Jagd turtle - should save quite a lot of time.~~**
-- Dump Human1 even earlier
-- **Further dump the other Human in favour of another ASN. Dump earliest before Jagd Hunt (recruit afterwards), and is advised, because Bounty will benefit from the additional KO. Dump latest before Golden Clock, since I'm only allowed 4 units anyway.**
+- ~~Dump Human1 even earlier~~
+- ~~**Further dump the other Human in favour of another ASN. Dump earliest before Jagd Hunt (recruit afterwards), and is advised, because Bounty will benefit from the additional KO. Dump latest before Golden Clock, since I'm only allowed 4 units anyway.**~~
+- find a better way to get Assassin2
 - ~~replace 1 Atmos Blade with Firewheel Rod for Desert Peril~~
 - Kaiser + Atmos + Firewheel. Harder than it sounds; Dueling Sub and Thesis Hunt appear at the same time, and Cheetahs gives 2 rewards at once. Obviously the latter should be easier to manipulate, but the odds are staggeringly low (0.5% if my math is right).
 - get Montblanc JP without wasting turns?
 - equip Gauntlets on Sotel earlier
 - **Beat Ultima without banning Charm? The only way to do this is to use Famfrit; I'll calculate the damage some time soon**
 - I considered using Adrammelech at Dorsa (after watching the RTA), but Bangaa1 only has 9 JP at this point, and the damage is only enough to OHKO the Assassin
+- rig Antlion stats for it to be OHKOable
 - ~~**Telaq** (redo from place Eluut)~~
-- **Still need to fail a third time; I realise a reequip is necessary after getting TTT, so equipping the new set of armor at this point would be convenient.**
+- ~~**Still need to fail a third time; I realise a reequip is necessary after getting TTT, so equipping the new set of armor at this point would be convenient.**~~
+- fail 2 more times to upgrade shop before Scouring Time
 - scrap Telaq Flower -> get Gastra instead?
 - get Claymore as makeshift Estreledge (type 6, earliest Quiet Sands)
 - try to get (2) Masamune from To Ambervale/Over the Hill (when are such rewards generated?)
