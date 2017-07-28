@@ -47,7 +47,7 @@ Baguba  | 314232 | 302765	| -11467 | Used less units
 - scrap Telaq Flower -> get Gastra instead?
 - ~~get El Cid as temporary Estreledge (type 5)~~
 - try to get (2) Masamune from To Ambervale/Over the Hill (when are such rewards generated?)
-- enemies that may require stat rigging and/or optimised Attack: Cadoan ILU (if Silver Sword), Magic Wood TIM, Hidden Vein ANM
+- enemies that may require stat rigging: Cadoan ILU (if Silver Sword), Magic Wood TIM, Hidden Vein ANM, Jagd Hunt ANT, Scouring Time GUN (Speed)
 
 # Intro, Snowball, Lizards
 
