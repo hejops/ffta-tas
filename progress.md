@@ -23,6 +23,7 @@ Baguba  | 314232 | 302765	| -11467 | Used less units
 
 # Things to fix/consider
 
+- avoid getting armor from quest rewards
 - ~~use B during world map cursor movement~~
 - ~~Sell the Cuirass~~
 - ~~**Make sure Dueling Sub reward is Kaiser. Get MNK from Dueling Sub - EXTREMELY IMPORTANT. Bangaa2 learn Air Render first.**~~
@@ -36,13 +37,15 @@ Baguba  | 314232 | 302765	| -11467 | Used less units
 - equip Gauntlets on Sotel earlier
 - **Beat Ultima without banning Charm? The only way to do this is to use Famfrit; I'll calculate the damage some time soon**
 - I considered using Adrammelech at Dorsa (after watching the RTA), but Bangaa1 only has 9 JP at this point, and the damage is only enough to OHKO the Assassin
-- rig Antlion stats for it to be OHKOable
+- rig Dorsa Antlion to be OHKOable
 - ~~**Telaq** (redo from place Eluut)~~
 - ~~**Still need to fail a third time; I realise a reequip is necessary after getting TTT, so equipping the new set of armor at this point would be convenient.**~~
-- fail 2 more times to upgrade shop before Scouring Time
+- ~~fail 2 more times to upgrade shop before Scouring Time~~
+- do Golden Clock without Petrify being banned (should've checked earlier lol)
 - get Ritz to hit the Juggler instead
+- flee the last clan better (I forgot you can't flee in jagds so I had to go to Nargai)
 - scrap Telaq Flower -> get Gastra instead?
-- get Claymore as makeshift Estreledge (type 6, earliest Quiet Sands)
+- ~~get El Cid as temporary Estreledge (type 5)~~
 - try to get (2) Masamune from To Ambervale/Over the Hill (when are such rewards generated?)
 - enemies that may require stat rigging and/or optimised Attack: Cadoan ILU (if Silver Sword), Magic Wood TIM, Hidden Vein ANM
 
