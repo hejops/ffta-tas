@@ -308,7 +308,7 @@ areas for improvement: Air Render for COE? OHKO FLN with Magic Ring
 
 # 17. Desert Patrol
 
-- walked around a bit due to a bad law (I forget what it was though)
+- walked around a bit due to a bad law (I forget what it was though; probably Fight)
 - DEF could not be OHKO'd with EB
 - GLD was a bitch
 
