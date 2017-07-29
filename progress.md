@@ -2,10 +2,10 @@
 
 # [in case the above no longer works](https://mega.nz/#F!sHRUnJwZ!KbtMzDbTzVo85ydB2GZVZA)
 
-# [Complete run, v0.9](https://www.youtube.com/watch?v=Or5ShUZxYgc)
+# [Complete run, v1](https://www.youtube.com/watch?v=Or5ShUZxYgc)
 
 # Benchmarks
-Benchmark | 0.9 | 1.0 | Diff | Reason
+Benchmark | v1 | v2 | Diff | Reason
 --- | --- | --- | --- | ---
 Sprohm  | 47109 | 47207 | +98 | Different core, WAR crit took longer
 Lutia   | 62486 | 63245 | +759 | Longer shop time?, 1 additional Thunder
