@@ -50,7 +50,7 @@ Baguba  | 314232 | 302765	| -11467 | Used less units
 - get Gastra?
 - ~~get El Cid as temporary Estreledge (type 5)~~
 - try to get (2) Masamune from To Ambervale/Over the Hill (when are such rewards generated?)
-- enemies that may require stat rigging: Cadoan ILU (if Silver Sword), Magic Wood TIM, Jagd Hunt ANT, Scouring Time GUN (Speed), Quiet Sands Llednar (Speed, very difficult), Hidden Vein ANM
+- enemies that may require stat rigging: Cadoan ILU (if Silver Sword), Magic Wood TIM, Jagd Hunt ANT, Scouring Time GUN (Speed), Quiet Sands Llednar (Speed, very difficult - lowest I ever saw was 129), Hidden Vein ANM
 - I discovered that enemy stats may be generated upon some pre-battle dialog, and not necessarily upon pressing A on the mission name (on the world map). For example, at Scouring Time, stats are generated when you press A on "It's enough reason for me". This might help make stat rigging a bit easier.
 
 # Intro, Snowball, Lizards
