@@ -46,7 +46,7 @@ Baguba  | 314232 | 302765	| -11467 | Used less units
 - flee the last clan better (I forgot you can't flee in jagds so I had to go to Nargai)
 - given how fast the Assassins are, they might be able to get in another Rockseal on Scouring Time
 - ~~unbanning Fight in The Big Find would eliminate the need to Beatdown the Bishops~~ turned out to save a grand total of 3 frames lol
-- letting Bangaa2 do the Viera Wanted missions would let him finish Beatdown 1 mission early, allowing him to switch to El Cid right in time for Mateus
+- ~~letting Bangaa2 do the Viera Wanted missions would let him finish Beatdown 1 mission early, allowing him to switch to El Cid right in time for Mateus~~ not really; he doesn't go into Desert Patrol since it's a 5 unit battle, sadly
 - get Gastra?
 - ~~get El Cid as temporary Estreledge (type 5)~~
 - try to get (2) Masamune from To Ambervale/Over the Hill (when are such rewards generated?)
