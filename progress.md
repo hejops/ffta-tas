@@ -1,3 +1,5 @@
+![Alt text](http://imgur.com/bBWqb1O "Optional title")
+
 # [.tasproj files](https://mega.nz/#F!U3pV1QTJ!UaVEckaGbxKMvkNHss93Mg)
 
 # [in case the above no longer works](https://mega.nz/#F!sHRUnJwZ!KbtMzDbTzVo85ydB2GZVZA)
