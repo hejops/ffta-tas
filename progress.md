@@ -1,4 +1,4 @@
-![Alt text](http://imgur.com/bBWqb1O "Optional title")
+![Alt text](https://i.imgur.com/bBWqb1O.png "Optional title")
 
 # [.tasproj files](https://mega.nz/#F!U3pV1QTJ!UaVEckaGbxKMvkNHss93Mg)
 
