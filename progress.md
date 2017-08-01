@@ -37,7 +37,7 @@ Baguba  | 314232 | 302765	| -11467 | Used less units
 - Kaiser + Atmos + Firewheel. Harder than it sounds; Dueling Sub and Thesis Hunt appear at the same time, and Cheetahs gives 2 rewards at once. Obviously the latter should be easier to manipulate, but the odds are staggeringly low (0.5% if my math is right).
 - get Montblanc JP without wasting turns?
 - equip Gauntlets on Bangaa2 earlier
-- **Beat Ultima without banning Charm? The only way to do this is to use Famfrit; I'll calculate the damage some time soon**
+- ~~**Beat Ultima without banning Charm? The only way to do this is to use Famfrit**~~ by my calcs this only does like 8 damage lol
 - I considered using Adrammelech at Dorsa (after watching the RTA), but Bangaa1 only has 9 JP at this point, and the damage is only enough to OHKO the Assassin
 - ~~**Telaq** (redo from place Eluut)~~
 - ~~**Still need to fail a third time; I realise a reequip is necessary after getting TTT, so equipping the new set of armor at this point would be convenient.**~~
