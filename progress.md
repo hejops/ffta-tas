@@ -6,6 +6,8 @@
 
 # [Complete run, v1](https://www.youtube.com/watch?v=Or5ShUZxYgc)
 
+# [Complete run, v2](https://www.youtube.com/watch?v=HvTbUXnGqpI)
+
 # Benchmarks
 Benchmark | v1 | v2 | Diff | Reason
 --- | --- | --- | --- | ---
