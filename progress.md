@@ -40,25 +40,25 @@ Baguba  | 314232 | 302765	| -11467 | Used less units
 - get Montblanc JP without wasting turns?
 - equip Gauntlets on Bangaa2 earlier
 - ~~**Beat Ultima without banning Charm? The only way to do this is to use Famfrit**~~ by my calcs this only does like 8 damage lol
-- I considered using Adrammelech at Dorsa (after watching the RTA), but Bangaa1 only has 9 JP at this point, and the damage is only enough to OHKO the Assassin
+- ~~I considered using Adrammelech at Dorsa (after watching the RTA),~~ but Bangaa1 only has 9 JP at this point, and the damage is only enough to OHKO the Assassin
 - ~~**Telaq** (redo from place Eluut)~~
 - ~~**Still need to fail a third time; I realise a reequip is necessary after getting TTT, so equipping the new set of armor at this point would be convenient.**~~
 - ~~fail 2 more times to upgrade shop before Scouring Time~~
 - do Golden Clock without Petrify being banned (should've checked earlier lol)
 - get Ritz to hit the Juggler instead? Her AI really doesn't want to do that
 - flee the last clan better (I forgot you can't flee in jagds so I had to go to Nargai lol)
-- given how fast the Assassins are, they might be able to get in another Rockseal on Scouring Time
+- Rockseal Scouring Time SAG and Big Find BIS; thanks to [rakakakarakakaka](https://www.youtube.com/watch?v=HvTbUXnGqpI&lc=Ugy9Q0cMjmqmAg9Jos14AaABAg) for the suggestion
 - ~~unbanning Fight in The Big Find would eliminate the need to Beatdown the Bishops~~ turned out to save a grand total of 3 frames lol
 - ~~letting Bangaa2 do the Viera Wanted missions would let him finish Beatdown 1 mission early, allowing him to switch to El Cid right in time for Mateus~~ not really; he doesn't go into Desert Patrol since it's a 5 unit battle, sadly
 - ~~get El Cid as temporary Estreledge (type 5)~~ not really necessary
-- try to get (2) Masamune from To Ambervale/Over the Hill (when are such rewards generated? definitely before the final action of the battle, as I've tested. perhaps on the frame you select the symbol)
+- **try to get (2) Masamune from To Ambervale/Over the Hill** (when are such rewards generated? definitely before the final action of the battle, as I've tested. perhaps on the frame you select the symbol)
 - scrap 2nd Estreledge - wasn't useful for final bosses at all
-- Bangaa1 is pretty much the only one capable of doing significant damage to the final bosses. I had to stick with the Masamune I got, which let me do just under 30 damage. I considered Demi, but I've read that it doesn't work on bosses. Tricky, tricky...
-- get Lini? I doubt it'd be worth the time spent on the battle, but he does come at a higher level, with Ultima already learnt, AND he can switch Beatdown as a fallback. Then again, he has to be around L16 to even be able to use Ultima, and I enter the final battle with an average level of ~10, so...
+- Bangaa1 is pretty much the only one capable of doing significant damage to the final bosses. I had to stick with the Masamune I got, which let me do just under 30 damage. ~~I considered Demi, but I've read that it doesn't work on bosses.~~ Tricky, tricky...
+- ~~get Lini? I doubt it'd be worth the time spent on the battle, but he does come at a higher level, with Ultima already learnt, AND he can switch Beatdown as a fallback.~~ Then again, he has to be around L16 to even be able to use Ultima, and I enter the final battle with an average level of ~10, so...
 - enemies that may require stat rigging: Cadoan ILU (if Silver Sword), Magic Wood TIM, Jagd Hunt ANT, Scouring Time GUN (Speed), Quiet Sands Llednar (Speed, very difficult - lowest I ever saw was 129), Remedi Famfrit (Speed)
-- I discovered that enemy stats may be generated upon some pre-battle dialog, and not necessarily upon pressing A on the mission name (on the world map). For example, at Scouring Time, stats are generated when you press A on "It's enough reason for me". This might help make stat rigging a bit easier.
-- determine when the RNG seed is generated (mostly for Marche/Mont/Bangaa1 speed)
-- Rockseal Scouring Time SAG and Big Find BIS; thanks to [rakakakarakakaka](https://www.youtube.com/watch?v=HvTbUXnGqpI&lc=Ugy9Q0cMjmqmAg9Jos14AaABAg) for the suggestion
+- I discovered that enemy stats may be generated upon some pre-battle dialog, and not necessarily upon pressing A on the mission name (on the world map). For example, at Scouring Time, stats are generated when you press A on "It's enough reason for me". (Don't know why it's that line specifically) This might help make stat rigging a bit easier.
+- determine when the RNG seed is generated, if any (mostly for Marche/Mont/Bangaa1 speed)
+
 
 # Intro, Snowball, Lizards
 
