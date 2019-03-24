@@ -58,6 +58,7 @@ Baguba  | 314232 | 302765	| -11467 | Used less units
 - enemies that may require stat rigging: Cadoan ILU (if Silver Sword), Magic Wood TIM, Jagd Hunt ANT, Scouring Time GUN (Speed), Quiet Sands Llednar (Speed, very difficult - lowest I ever saw was 129), Remedi Famfrit (Speed)
 - I discovered that enemy stats may be generated upon some pre-battle dialog, and not necessarily upon pressing A on the mission name (on the world map). For example, at Scouring Time, stats are generated when you press A on "It's enough reason for me". This might help make stat rigging a bit easier.
 - determine when the RNG seed is generated (mostly for Marche/Mont/Bangaa1 speed)
+- Rockseal Scouring Time SAG and Big Find BIS; thanks to [rakakakarakakaka](https://www.youtube.com/watch?v=HvTbUXnGqpI&lc=Ugy9Q0cMjmqmAg9Jos14AaABAg) for the suggestion
 
 # Intro, Snowball, Lizards
 
